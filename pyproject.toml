@@ -1,0 +1,11 @@
+[project]
+name = "mood-search"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "datetime>=5.5",
+    "openai>=1.82.0",
+    "streamlit>=1.45.1",
+]

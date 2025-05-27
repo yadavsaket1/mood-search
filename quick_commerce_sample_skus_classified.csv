@@ -1,0 +1,988 @@
+Product Name,Brand,Size,MRP,Category,emotional,temporal,premium,convenience,health,social
+Banana,Local,1 Dozen,50,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Tomato,Local,1 kg,35,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Onion,Local,1 kg,40,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Potato,Local,1 kg,30,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Spinach,Local,1 bunch,20,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Apple,Premium,6 pcs,200,Fruits & Vegetables,0.3,0.4,0.7,0.2,0.9,0.3
+Orange,Premium,6 pcs,150,Fruits & Vegetables,0.3,0.4,0.7,0.2,0.9,0.3
+Cucumber,Local,500 g,25,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Carrot,Local,500 g,35,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Cauliflower,Local,1 pc,45,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Capsicum,Local,250 g,30,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Lemon,Local,200 g,20,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Ginger,Local,100 g,15,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Garlic,Local,100 g,25,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Beetroot,Local,500 g,40,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Broccoli,Premium,250 g,80,Fruits & Vegetables,0.3,0.4,0.5,0.2,0.9,0.3
+Mushroom,Premium,200 g,60,Fruits & Vegetables,0.3,0.4,0.5,0.2,0.9,0.3
+Green Peas,Local,500 g,45,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Coconut,Local,1 pc,60,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Watermelon,Local,1 pc,120,Fruits & Vegetables,0.3,0.4,0.2,0.2,0.9,0.3
+Pineapple,Local,1 pc,70,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Papaya,Local,1 pc,60,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Pomegranate,Premium,3 pcs,150,Fruits & Vegetables,0.3,0.4,0.7,0.2,0.9,0.3
+Grapes,Premium,500 g,90,Fruits & Vegetables,0.3,0.4,0.5,0.2,0.9,0.3
+Mango,Premium,1 kg,200,Fruits & Vegetables,0.3,0.4,0.7,0.2,0.9,0.3
+Kiwi,Imported,3 pcs,180,Fruits & Vegetables,0.3,0.4,0.7,0.2,0.9,0.3
+Dragon Fruit,Imported,1 pc,120,Fruits & Vegetables,0.3,0.4,0.7,0.2,0.9,0.3
+Sweet Corn,Local,2 pcs,50,Fruits & Vegetables,0.6,0.4,0.0,0.2,0.9,0.3
+Bottle Gourd,Local,1 pc,30,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Lady Finger,Local,250 g,25,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Radish,Local,500 g,25,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Spring Onion,Local,100 g,15,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Coriander Leaves,Local,50 g,10,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Mint Leaves,Local,50 g,10,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Curry Leaves,Local,50 g,10,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Bitter Gourd,Local,250 g,30,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Ridge Gourd,Local,250 g,30,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Snake Gourd,Local,250 g,30,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Drumstick,Local,250 g,40,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Ash Gourd,Local,500 g,40,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Raw Banana,Local,500 g,45,Fruits & Vegetables,0.3,0.4,0.0,0.0,0.9,0.3
+Raw Mango,Local,250 g,30,Fruits & Vegetables,0.3,0.4,0.0,0.0,0.9,0.3
+Tender Coconut,Local,1 pc,50,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Cabbage,Local,1 pc,35,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Sweet Potato,Local,500 g,35,Fruits & Vegetables,0.6,0.4,0.0,0.2,0.9,0.3
+Cassava,Local,500 g,40,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Turnip,Local,500 g,35,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Methi Leaves,Local,100 g,20,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Arbi,Local,250 g,35,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Pumpkin,Local,500 g,30,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Avocado,Imported,1 pc,120,Fruits & Vegetables,0.3,0.4,0.7,0.2,0.9,0.3
+Asparagus,Imported,200 g,180,Fruits & Vegetables,0.3,0.4,0.7,0.2,0.9,0.3
+Zucchini,Imported,250 g,80,Fruits & Vegetables,0.3,0.4,0.5,0.2,0.9,0.3
+Bell Pepper (Yellow),Imported,200 g,90,Fruits & Vegetables,0.3,0.4,0.5,0.2,0.9,0.3
+Bell Pepper (Red),Imported,200 g,90,Fruits & Vegetables,0.3,0.4,0.5,0.2,0.9,0.3
+Blueberry,Imported,125 g,180,Fruits & Vegetables,0.3,0.4,0.7,0.2,0.9,0.3
+Strawberry,Premium,200 g,150,Fruits & Vegetables,0.3,0.4,0.7,0.0,0.9,0.3
+Mulberry,Local,200 g,120,Fruits & Vegetables,0.3,0.4,0.2,0.2,0.9,0.3
+Jamun,Local,200 g,60,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Chikoo,Local,500 g,60,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Litchi,Premium,500 g,120,Fruits & Vegetables,0.3,0.4,0.7,0.2,0.9,0.3
+Plum,Imported,6 pcs,140,Fruits & Vegetables,0.3,0.4,0.7,0.2,0.9,0.3
+Pear,Premium,4 pcs,120,Fruits & Vegetables,0.3,0.4,0.7,0.2,0.9,0.3
+Peach,Imported,4 pcs,160,Fruits & Vegetables,0.3,0.4,0.7,0.2,0.9,0.3
+Apricot,Imported,200 g,170,Fruits & Vegetables,0.3,0.4,0.7,0.2,0.9,0.3
+Fig,Local,200 g,90,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Cranberry (Dried),Imported,100 g,160,Fruits & Vegetables,0.3,0.4,0.7,0.2,0.9,0.3
+Raisins,Premium,200 g,120,Fruits & Vegetables,0.3,0.4,0.7,0.2,0.9,0.3
+Dates,Premium,200 g,120,Fruits & Vegetables,0.3,0.4,0.7,0.2,0.9,0.3
+Amaranth Leaves,Local,100 g,30,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Basil Leaves,Local,50 g,30,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Rosemary,Imported,25 g,70,Fruits & Vegetables,0.3,0.4,0.5,0.2,0.9,0.3
+Thyme,Imported,25 g,70,Fruits & Vegetables,0.3,0.4,0.5,0.2,0.9,0.3
+Oregano (Fresh),Imported,25 g,70,Fruits & Vegetables,0.3,0.4,0.5,0.0,1.0,0.3
+Parsley,Imported,50 g,60,Fruits & Vegetables,0.3,0.4,0.5,0.2,0.9,0.3
+Dill Leaves,Local,50 g,30,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Cherry Tomato,Premium,200 g,90,Fruits & Vegetables,0.3,0.4,0.5,0.2,0.9,0.3
+Taro Root,Local,500 g,50,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Chinese Cabbage,Local,1 pc,60,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Alfalfa Sprouts,Premium,100 g,80,Fruits & Vegetables,0.3,0.4,0.5,0.2,0.9,0.3
+Moong Sprouts,Local,200 g,40,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Baby Spinach,Premium,200 g,90,Fruits & Vegetables,0.3,0.4,0.5,0.2,0.9,0.3
+Lettuce,Premium,1 pc,70,Fruits & Vegetables,0.3,0.4,0.5,0.2,0.9,0.3
+Iceberg Lettuce,Premium,1 pc,90,Fruits & Vegetables,0.3,0.4,0.5,0.2,0.9,0.3
+Green Beans,Local,250 g,30,Fruits & Vegetables,0.3,0.4,0.0,0.2,0.9,0.3
+Green Apple,Imported,4 pcs,180,Fruits & Vegetables,0.3,0.4,0.7,0.2,0.9,0.3
+Toned Milk,Amul,500 ml,32,Dairy & Eggs,0.5,0.6,0.4,0.3,0.9,0.4
+Full Cream Milk,Amul,500 ml,35,Dairy & Eggs,0.5,0.6,0.4,0.3,0.9,0.4
+Cow Milk,Farm Fresh,1 L,80,Dairy & Eggs,0.5,0.6,0.4,0.1,1.0,0.4
+Buffalo Milk,Farm Fresh,1 L,90,Dairy & Eggs,0.5,0.6,0.4,0.1,1.0,0.4
+Yogurt,Amul,400 g,40,Dairy & Eggs,0.5,0.6,0.4,0.3,0.9,0.4
+Greek Yogurt,Epigamia,100 g,35,Dairy & Eggs,0.5,0.6,0.4,0.3,0.9,0.4
+Butter,Amul,100 g,52,Dairy & Eggs,0.5,0.6,0.4,0.3,0.7,0.4
+Cheese Slices,Amul,100 g,120,Dairy & Eggs,0.5,0.6,0.6,0.3,0.7,0.4
+Paneer,Amul,200 g,90,Dairy & Eggs,0.5,0.6,0.4,0.3,0.7,0.4
+Eggs,Local,6 pcs,42,Dairy & Eggs,0.5,0.6,0.2,0.3,0.7,0.4
+Farm Eggs,Farm Fresh,6 pcs,60,Dairy & Eggs,0.5,0.6,0.4,0.1,1.0,0.4
+Brown Eggs,Farm Fresh,6 pcs,70,Dairy & Eggs,0.5,0.6,0.4,0.1,1.0,0.4
+Quail Eggs,Premium,12 pcs,120,Dairy & Eggs,0.5,0.6,0.9,0.3,0.7,0.4
+Skimmed Milk,Amul,500 ml,35,Dairy & Eggs,0.5,0.6,0.4,0.3,0.9,0.4
+Double Toned Milk,Mother Dairy,500 ml,30,Dairy & Eggs,0.5,0.6,0.4,0.3,0.9,0.4
+Flavored Milk,Amul,200 ml,25,Dairy & Eggs,0.5,0.6,0.2,0.3,0.9,0.4
+Chocolate Milk,Amul,200 ml,30,Dairy & Eggs,0.8,0.6,0.4,0.3,0.9,0.4
+Strawberry Milk,Amul,200 ml,30,Dairy & Eggs,0.5,0.6,0.4,0.1,0.9,0.4
+Buttermilk,Amul,500 ml,20,Dairy & Eggs,0.5,0.6,0.2,0.3,0.9,0.4
+Lassi,Amul,200 ml,25,Dairy & Eggs,0.5,0.6,0.2,0.3,0.7,0.4
+Curd,Mother Dairy,400 g,40,Dairy & Eggs,0.5,0.6,0.4,0.3,0.7,0.4
+Cottage Cheese,Milky Mist,200 g,90,Dairy & Eggs,0.5,0.6,0.4,0.3,0.9,0.4
+Ghee,Amul,500 ml,280,Dairy & Eggs,0.5,0.6,0.7,0.3,0.7,0.4
+Dahi,Mother Dairy,400 g,40,Dairy & Eggs,0.5,0.6,0.4,0.3,0.7,0.4
+Whipped Cream,Amul,200 ml,120,Dairy & Eggs,0.5,0.6,0.6,0.3,0.7,0.4
+Heavy Cream,Amul,200 ml,150,Dairy & Eggs,0.5,0.6,0.6,0.3,0.7,0.4
+Sour Cream,Milky Mist,200 g,90,Dairy & Eggs,0.5,0.6,0.4,0.3,0.9,0.4
+Mozzarella Cheese,Amul,200 g,180,Dairy & Eggs,0.5,0.6,0.6,0.3,0.7,0.4
+Cheddar Cheese,Amul,200 g,160,Dairy & Eggs,0.5,0.6,0.6,0.3,0.7,0.4
+Cheese Spread,Amul,200 g,110,Dairy & Eggs,0.5,0.6,0.6,0.3,0.7,0.4
+Cream Cheese,Philadelphia,180 g,210,Dairy & Eggs,0.5,0.6,0.7,0.3,0.7,0.4
+Blue Cheese,Imported,100 g,280,Dairy & Eggs,0.5,0.6,1.0,0.3,0.7,0.4
+Feta Cheese,Imported,200 g,300,Dairy & Eggs,0.5,0.6,1.0,0.3,0.7,0.4
+Parmesan Cheese,Imported,100 g,320,Dairy & Eggs,0.5,0.6,1.0,0.3,0.7,0.4
+Gouda Cheese,Imported,200 g,350,Dairy & Eggs,0.5,0.6,1.0,0.3,0.7,0.4
+Mascarpone Cheese,Imported,200 g,380,Dairy & Eggs,0.5,0.6,1.0,0.3,0.7,0.4
+Ricotta Cheese,Imported,250 g,350,Dairy & Eggs,0.5,0.6,1.0,0.3,0.7,0.4
+Milk Powder,Amul,500 g,220,Dairy & Eggs,0.5,0.6,0.7,0.3,0.9,0.4
+Condensed Milk,Nestle,400 g,130,Dairy & Eggs,0.5,0.6,0.6,0.3,0.9,0.4
+Flavored Yogurt (Strawberry),Danone,125 g,40,Dairy & Eggs,0.5,0.6,0.4,0.1,0.9,0.4
+Flavored Yogurt (Blueberry),Danone,125 g,40,Dairy & Eggs,0.5,0.6,0.4,0.3,0.9,0.4
+Flavored Yogurt (Vanilla),Danone,125 g,40,Dairy & Eggs,0.5,0.6,0.4,0.3,0.9,0.4
+Flavored Yogurt (Mango),Danone,125 g,40,Dairy & Eggs,0.5,0.6,0.4,0.3,0.9,0.4
+Yogurt Drink,Yakult,65 ml,25,Dairy & Eggs,0.5,0.6,0.2,0.3,0.9,0.4
+Probiotic Drink,Yakult,65 ml,30,Dairy & Eggs,0.5,0.6,0.4,0.3,0.7,0.4
+Duck Eggs,Premium,6 pcs,120,Dairy & Eggs,0.5,0.6,0.9,0.3,0.7,0.4
+Organic Eggs,Organic,6 pcs,100,Dairy & Eggs,0.5,0.6,0.7,0.3,1.0,0.4
+Egg White (Liquid),Farm Fresh,500 ml,180,Dairy & Eggs,0.5,0.6,0.6,0.1,1.0,0.4
+Soy Milk,Sofit,1 L,120,Dairy & Eggs,0.5,0.6,0.6,0.3,0.9,0.4
+Almond Milk,Sofit,1 L,180,Dairy & Eggs,0.5,0.6,0.6,0.3,0.9,0.4
+Coconut Milk,Real,200 ml,90,Dairy & Eggs,0.5,0.6,0.4,0.3,0.9,0.4
+Oat Milk,Imported,1 L,220,Dairy & Eggs,0.5,0.6,1.0,0.3,0.9,0.4
+Cashew Milk,Imported,1 L,260,Dairy & Eggs,0.5,0.6,1.0,0.3,0.9,0.4
+Rice Milk,Imported,1 L,240,Dairy & Eggs,0.5,0.6,1.0,0.3,0.9,0.4
+Lactose-Free Milk,Amul,500 ml,60,Dairy & Eggs,0.5,0.6,0.4,0.3,0.9,0.4
+A2 Milk,Farm Fresh,500 ml,80,Dairy & Eggs,0.5,0.6,0.4,0.1,1.0,0.4
+UHT Milk,Amul,1 L,70,Dairy & Eggs,0.5,0.6,0.4,0.3,0.9,0.4
+Vegan Cheese,Imported,200 g,320,Dairy & Eggs,0.5,0.6,1.0,0.3,0.7,0.4
+Vegan Butter,Imported,200 g,350,Dairy & Eggs,0.5,0.6,1.0,0.3,0.7,0.4
+Vegan Yogurt,Imported,400 g,280,Dairy & Eggs,0.5,0.6,1.0,0.3,0.9,0.4
+Tofu,Tofuji,200 g,60,Dairy & Eggs,0.5,0.6,0.4,0.3,0.7,0.4
+Silken Tofu,Tofuji,200 g,80,Dairy & Eggs,0.5,0.6,0.4,0.3,0.7,0.4
+Firm Tofu,Tofuji,200 g,75,Dairy & Eggs,0.5,0.6,0.4,0.3,0.7,0.4
+Almond Yogurt,Imported,400 g,220,Dairy & Eggs,0.5,0.6,1.0,0.3,0.9,0.4
+Coconut Yogurt,Imported,400 g,220,Dairy & Eggs,0.5,0.6,1.0,0.3,0.9,0.4
+Lays Classic Salted,Lays,52 g,20,Snacks & Beverages,0.8,0.7,0.3,0.6,0.3,0.8
+Kurkure,Kurkure,100 g,30,Snacks & Beverages,0.8,0.7,0.5,0.6,0.3,0.8
+Coca Cola,Coca Cola,750 ml,40,Snacks & Beverages,0.8,0.7,0.5,0.6,0.3,0.8
+Pepsi,Pepsi,750 ml,40,Snacks & Beverages,0.8,0.7,0.5,0.6,0.3,0.8
+Lays Magic Masala,Lays,52 g,20,Snacks & Beverages,0.8,0.7,0.3,0.6,0.3,0.8
+Doritos Nacho Cheese,Doritos,70 g,40,Snacks & Beverages,0.8,0.7,0.5,0.6,0.3,0.8
+Bingo Mad Angles,Bingo,72 g,30,Snacks & Beverages,0.8,0.7,0.5,0.6,0.3,0.8
+Diet Coke,Coca Cola,330 ml,40,Snacks & Beverages,0.8,0.7,0.5,0.6,0.3,0.8
+Sprite,Coca Cola,750 ml,40,Snacks & Beverages,0.8,0.7,0.5,0.6,0.3,0.8
+Thumbs Up,Coca Cola,750 ml,40,Snacks & Beverages,0.8,0.7,0.5,0.6,0.3,0.8
+Mirinda,Pepsi,750 ml,40,Snacks & Beverages,0.8,0.7,0.5,0.6,0.3,0.8
+7UP,Pepsi,750 ml,40,Snacks & Beverages,0.8,0.7,0.5,0.6,0.3,0.8
+Mountain Dew,Pepsi,750 ml,40,Snacks & Beverages,0.8,0.7,0.5,0.6,0.3,0.8
+Red Bull,Red Bull,250 ml,120,Snacks & Beverages,0.8,0.7,0.7,0.6,0.3,0.8
+Monster Energy,Monster,500 ml,160,Snacks & Beverages,0.8,0.7,0.7,0.6,0.3,0.8
+Bingo Tedhe Medhe,Bingo,90 g,30,Snacks & Beverages,0.8,0.7,0.5,0.6,0.3,0.8
+Uncle Chips,Uncle Chips,60 g,25,Snacks & Beverages,0.8,0.7,0.3,0.6,0.1,0.8
+Haldiram's Aloo Bhujia,Haldiram's,200 g,60,Snacks & Beverages,0.8,0.7,0.5,0.6,0.3,0.8
+Haldiram's Mixture,Haldiram's,200 g,70,Snacks & Beverages,0.8,0.7,0.5,0.6,0.3,0.8
+Pringles Original,Pringles,107 g,120,Snacks & Beverages,0.8,0.7,0.7,0.6,0.3,0.8
+Pringles Sour Cream & Onion,Pringles,107 g,120,Snacks & Beverages,0.8,0.7,0.7,0.6,0.3,0.8
+Coca Cola Zero,Coca Cola,330 ml,45,Snacks & Beverages,0.8,0.7,0.5,0.6,0.3,0.8
+Sting Energy Drink,Pepsi,250 ml,40,Snacks & Beverages,0.8,0.7,0.5,0.6,0.3,0.8
+Gatorade,Pepsi,500 ml,50,Snacks & Beverages,0.8,0.7,0.5,0.6,0.3,0.8
+Tropicana Orange Juice,Tropicana,1 L,120,Snacks & Beverages,0.8,0.7,0.7,0.6,0.3,0.8
+Real Fruit Juice (Mixed Fruit),Real,1 L,120,Snacks & Beverages,0.8,0.7,0.7,0.6,0.3,0.8
+Real Fruit Juice (Apple),Real,1 L,130,Snacks & Beverages,0.8,0.7,0.7,0.6,0.3,0.8
+Real Fruit Juice (Orange),Real,1 L,130,Snacks & Beverages,0.8,0.7,0.7,0.6,0.3,0.8
+Real Fruit Juice (Pomegranate),Real,1 L,160,Snacks & Beverages,0.8,0.7,0.7,0.6,0.3,0.8
+Minute Maid (Orange),Minute Maid,1 L,100,Snacks & Beverages,0.8,0.7,0.5,0.6,0.3,0.8
+Fanta,Coca Cola,750 ml,40,Snacks & Beverages,0.8,0.7,0.5,0.6,0.3,0.8
+Limca,Coca Cola,750 ml,40,Snacks & Beverages,0.8,0.7,0.5,0.6,0.3,0.8
+Mazza,Coca Cola,1 L,80,Snacks & Beverages,0.8,0.7,0.5,0.6,0.3,0.8
+Frooti,Frooti,500 ml,35,Snacks & Beverages,0.8,0.7,0.5,0.6,0.3,0.8
+Appy,Parle,200 ml,20,Snacks & Beverages,0.8,0.7,0.3,0.6,0.3,0.8
+B-Natural (Mixed Fruit),ITC,1 L,120,Snacks & Beverages,0.8,0.7,0.7,0.6,0.6,0.8
+B-Natural (Pomegranate),ITC,1 L,150,Snacks & Beverages,0.8,0.7,0.7,0.6,0.6,0.8
+Bisleri Mineral Water,Bisleri,1 L,20,Snacks & Beverages,0.8,0.7,0.3,0.6,0.3,0.8
+Aquafina,Pepsi,1 L,20,Snacks & Beverages,0.8,0.7,0.3,0.6,0.3,0.8
+Kinley,Coca Cola,1 L,20,Snacks & Beverages,0.8,0.7,0.3,0.6,0.3,0.8
+Tata Tea Premium,Tata,250 g,125,Snacks & Beverages,1.0,0.9,1.0,0.6,0.3,0.8
+Red Label Tea,Brooke Bond,250 g,130,Snacks & Beverages,1.0,0.9,0.7,0.6,0.3,0.8
+Taj Mahal Tea,Brooke Bond,250 g,160,Snacks & Beverages,1.0,0.9,0.7,0.6,0.3,0.8
+Tetley Green Tea,Tetley,100 g,150,Snacks & Beverages,1.0,0.9,0.7,0.6,0.3,0.8
+Lipton Green Tea,Lipton,100 g,160,Snacks & Beverages,1.0,0.9,0.7,0.6,0.3,0.8
+Nescafe Classic,Nescafe,50 g,180,Snacks & Beverages,0.8,0.7,0.7,0.6,0.3,0.8
+Bru Instant Coffee,Bru,50 g,150,Snacks & Beverages,1.0,1.0,0.7,0.9,0.3,0.8
+Bru Gold Coffee,Bru,50 g,190,Snacks & Beverages,1.0,0.9,0.7,0.6,0.3,0.8
+Nescafe Gold,Nescafe,50 g,225,Snacks & Beverages,0.8,0.7,0.8,0.6,0.3,0.8
+Boost,GSK,500 g,270,Snacks & Beverages,0.8,0.7,0.8,0.6,0.3,0.8
+Horlicks,GSK,500 g,265,Snacks & Beverages,0.8,0.7,0.8,0.6,0.3,0.8
+Complan,Complan,500 g,280,Snacks & Beverages,0.8,0.7,0.8,0.6,0.3,0.8
+Bournvita,Cadbury,500 g,250,Snacks & Beverages,0.8,0.7,0.8,0.6,0.3,0.8
+Thums Up,Coca Cola,330 ml,40,Snacks & Beverages,0.8,0.7,0.5,0.6,0.3,0.8
+Sprite Zero,Coca Cola,330 ml,45,Snacks & Beverages,0.8,0.7,0.5,0.6,0.3,0.8
+Pepsi Black,Pepsi,330 ml,45,Snacks & Beverages,0.8,0.7,0.5,0.6,0.3,0.8
+Bingo Tangles,Bingo,80 g,35,Snacks & Beverages,0.8,0.7,0.5,0.6,0.3,0.8
+Bingo No Rulz,Bingo,90 g,35,Snacks & Beverages,0.8,0.7,0.5,0.6,0.3,0.8
+Haldiram's Bhujia Sev,Haldiram's,200 g,65,Snacks & Beverages,0.8,0.7,0.5,0.6,0.3,0.8
+Balaji Wafers (Classic Salted),Balaji,150 g,45,Snacks & Beverages,0.8,0.7,0.5,0.6,0.3,0.8
+Balaji Wafers (Masala),Balaji,150 g,45,Snacks & Beverages,0.8,0.7,0.5,0.6,0.3,0.8
+Too Yumm Multigrain Chips,Too Yumm,70 g,40,Snacks & Beverages,0.8,0.7,0.5,0.6,0.1,0.8
+Yellow Diamond Rings,Yellow Diamond,90 g,30,Snacks & Beverages,0.8,0.7,0.5,0.6,0.3,0.8
+Pepsodent Germ Protection,Pepsodent,150 g,90,Personal Care,0.4,0.3,0.6,0.7,0.6,0.2
+Colgate MaxFresh,Colgate,150 g,95,Personal Care,0.4,0.3,0.6,0.5,0.9,0.2
+Dove Beauty Bar,Dove,75 g,60,Personal Care,0.4,0.3,0.6,0.7,0.6,0.2
+Lux Soap,Lux,75 g,30,Personal Care,0.4,0.3,0.6,0.7,0.6,0.2
+Lifebuoy Total,Lifebuoy,125 g,35,Personal Care,0.4,0.3,0.6,0.7,0.6,0.2
+Dettol Soap,Dettol,125 g,45,Personal Care,0.4,0.3,0.6,0.7,0.6,0.2
+Head & Shoulders Shampoo,Head & Shoulders,340 ml,290,Personal Care,0.4,0.3,0.9,0.7,0.6,0.2
+Pantene Shampoo,Pantene,340 ml,280,Personal Care,0.4,0.3,0.9,0.7,0.6,0.2
+Dove Shampoo,Dove,340 ml,250,Personal Care,0.4,0.3,0.9,0.7,0.6,0.2
+Clinic Plus Shampoo,Clinic Plus,340 ml,170,Personal Care,0.4,0.3,0.8,0.7,0.6,0.2
+Fair & Lovely Cream,Fair & Lovely,50 g,105,Personal Care,0.4,0.3,0.8,0.7,0.6,0.2
+Nivea Cream,Nivea,100 ml,199,Personal Care,0.4,0.3,0.8,0.7,0.6,0.2
+Vaseline Lotion,Vaseline,400 ml,280,Personal Care,0.4,0.3,0.9,0.7,0.6,0.2
+Nivea Men Cream,Nivea,75 ml,140,Personal Care,0.4,0.3,0.8,0.7,0.6,0.2
+Gillette Mach 3 Razor,Gillette,1 pc,380,Personal Care,0.4,0.3,0.9,0.7,0.6,0.2
+Gillette Foam,Gillette,418 g,299,Personal Care,0.4,0.3,0.9,0.7,0.6,0.2
+Old Spice Deo,Old Spice,150 ml,235,Personal Care,0.4,0.3,0.9,0.7,0.6,0.2
+Axe Deo,Axe,150 ml,230,Personal Care,0.4,0.3,0.9,0.7,0.6,0.2
+Whisper Ultra,Whisper,7 pads,120,Personal Care,0.4,0.3,0.8,0.7,0.6,0.2
+Stayfree Secure,Stayfree,7 pads,90,Personal Care,0.4,0.3,0.6,0.7,0.6,0.2
+Veet Hair Removal Cream,Veet,50 g,145,Personal Care,0.4,0.3,0.8,0.7,0.6,0.2
+Colgate Sensitive,Colgate,80 g,130,Personal Care,0.4,0.3,0.8,0.7,0.6,0.2
+Sensodyne Fresh Mint,Sensodyne,75 g,160,Personal Care,0.4,0.3,0.8,0.5,0.9,0.2
+Close Up,Close Up,150 g,85,Personal Care,0.4,0.3,0.6,0.7,0.6,0.2
+Himalaya Neem Face Wash,Himalaya,100 ml,120,Personal Care,0.4,0.3,0.8,0.7,0.6,0.2
+Clean & Clear Face Wash,Clean & Clear,100 ml,150,Personal Care,0.4,0.3,0.8,0.7,0.6,0.2
+Garnier Men Face Wash,Garnier,100 ml,150,Personal Care,0.4,0.3,0.8,0.7,0.6,0.2
+Neutrogena Face Wash,Neutrogena,150 ml,250,Personal Care,0.4,0.3,0.9,0.7,0.6,0.2
+Lakme Face Powder,Lakme,40 g,190,Personal Care,0.4,0.3,0.8,0.7,0.6,0.2
+Lakme Foundation,Lakme,27 ml,350,Personal Care,0.4,0.3,0.9,0.7,0.6,0.2
+Maybelline Mascara,Maybelline,9.2 ml,450,Personal Care,0.4,0.3,0.9,0.7,0.6,0.2
+Lakme Kajal,Lakme,0.35 g,200,Personal Care,0.4,0.3,0.8,0.7,0.6,0.2
+Nivea Men Aftershave,Nivea,100 ml,270,Personal Care,0.4,0.3,0.9,0.7,0.6,0.2
+Park Avenue Deo,Park Avenue,150 ml,210,Personal Care,0.4,0.3,0.9,0.7,0.6,0.2
+Denver Deo,Denver,165 ml,190,Personal Care,0.4,0.3,0.8,0.7,0.6,0.2
+Fogg Deo,Fogg,150 ml,240,Personal Care,0.4,0.3,0.9,0.7,0.6,0.2
+Engage Deo,Engage,165 ml,195,Personal Care,0.4,0.3,0.8,0.7,0.6,0.2
+Set Wet Gel,Set Wet,100 ml,85,Personal Care,0.4,0.3,0.6,0.7,0.6,0.2
+Brylcreem,Brylcreem,75 g,120,Personal Care,0.4,0.3,0.8,0.7,0.6,0.2
+Parachute Hair Oil,Parachute,200 ml,98,Personal Care,0.4,0.3,0.6,0.7,0.6,0.2
+Dabur Amla Hair Oil,Dabur,275 ml,140,Personal Care,0.4,0.3,0.8,0.7,0.6,0.2
+Indulekha Bringha Oil,Indulekha,100 ml,432,Personal Care,0.4,0.3,0.9,0.7,0.6,0.2
+Colgate Toothbrush (Medium),Colgate,1 pc,35,Personal Care,0.4,0.3,0.6,0.7,0.6,0.2
+Oral-B Toothbrush (Medium),Oral-B,1 pc,40,Personal Care,0.4,0.3,0.6,0.7,0.6,0.2
+Listerine Mouthwash,Listerine,250 ml,180,Personal Care,0.4,0.3,0.8,0.7,0.6,0.2
+Colgate Mouthwash,Colgate,250 ml,160,Personal Care,0.4,0.3,0.8,0.7,0.6,0.2
+Dettol Hand Wash,Dettol,200 ml,99,Personal Care,0.4,0.3,0.6,0.7,0.6,0.2
+Lifebuoy Hand Wash,Lifebuoy,200 ml,90,Personal Care,0.4,0.3,0.6,0.7,0.6,0.2
+Savlon Hand Wash,Savlon,200 ml,95,Personal Care,0.4,0.3,0.6,0.7,0.6,0.2
+Dettol Hand Sanitizer,Dettol,50 ml,50,Personal Care,0.4,0.3,0.6,0.7,0.6,0.2
+Lifebuoy Hand Sanitizer,Lifebuoy,50 ml,50,Personal Care,0.4,0.3,0.6,0.7,0.6,0.2
+Himalaya Baby Soap,Himalaya,125 g,70,Personal Care,0.4,0.3,0.6,0.7,0.6,0.2
+Johnson's Baby Soap,Johnson's,150 g,100,Personal Care,0.4,0.3,0.6,0.7,0.6,0.2
+Johnson's Baby Shampoo,Johnson's,200 ml,180,Personal Care,0.4,0.3,0.8,0.7,0.6,0.2
+Johnson's Baby Oil,Johnson's,200 ml,220,Personal Care,0.4,0.3,0.9,0.7,0.6,0.2
+Johnson's Baby Powder,Johnson's,200 g,170,Personal Care,0.4,0.3,0.8,0.7,0.6,0.2
+Johnson's Baby Lotion,Johnson's,200 ml,190,Personal Care,0.4,0.3,0.8,0.7,0.6,0.2
+Nivea Lip Balm,Nivea,4.8 g,175,Personal Care,0.4,0.3,0.8,0.7,0.6,0.2
+Vaseline Lip Therapy,Vaseline,10 g,160,Personal Care,0.4,0.3,0.8,0.7,0.6,0.2
+Himalaya Lip Balm,Himalaya,10 g,130,Personal Care,0.4,0.3,0.8,0.7,0.6,0.2
+L'Oreal Paris Shampoo,L'Oreal,175 ml,180,Personal Care,0.4,0.3,0.8,0.7,0.6,0.2
+TRESemmé Shampoo,TRESemmé,580 ml,450,Personal Care,0.4,0.3,0.9,0.7,0.6,0.2
+Sunsilk Shampoo,Sunsilk,340 ml,260,Personal Care,0.4,0.3,0.9,0.7,0.6,0.2
+Dove Conditioner,Dove,180 ml,200,Personal Care,0.4,0.3,0.8,0.7,0.6,0.2
+Pantene Conditioner,Pantene,180 ml,210,Personal Care,0.4,0.3,0.9,0.7,0.6,0.2
+Garnier Hair Color,Garnier,70 ml,190,Personal Care,0.4,0.3,0.8,0.7,0.6,0.2
+L'Oreal Hair Color,L'Oreal,100 g,550,Personal Care,0.4,0.3,0.9,0.7,0.6,0.2
+Revlon Hair Color,Revlon,100 g,650,Personal Care,0.4,0.3,0.9,0.7,0.6,0.2
+Harpic Toilet Cleaner,Harpic,500 ml,85,Home Cleaning,0.2,0.3,0.4,0.8,0.3,0.1
+Colin Glass Cleaner,Colin,500 ml,110,Home Cleaning,0.2,0.3,0.6,0.8,0.3,0.1
+Lizol Floor Cleaner,Lizol,500 ml,110,Home Cleaning,0.2,0.3,0.6,0.8,0.3,0.1
+Vim Dishwash Bar,Vim,200 g,20,Home Cleaning,0.2,0.3,0.2,0.8,0.3,0.1
+Vim Dishwash Liquid,Vim,500 ml,125,Home Cleaning,0.2,0.3,0.6,0.8,0.3,0.1
+Surf Excel,Surf Excel,1 kg,180,Home Cleaning,0.2,0.3,0.6,0.8,0.3,0.1
+Ariel,Ariel,1 kg,190,Home Cleaning,0.2,0.3,0.6,0.8,0.3,0.1
+Tide,Tide,1 kg,170,Home Cleaning,0.2,0.3,0.6,0.8,0.3,0.1
+Rin,Rin,1 kg,150,Home Cleaning,0.2,0.3,0.6,0.8,0.3,0.1
+Comfort Fabric Conditioner,Comfort,800 ml,220,Home Cleaning,0.5,0.3,0.7,0.8,0.3,0.1
+Domex Toilet Cleaner,Domex,500 ml,90,Home Cleaning,0.2,0.3,0.4,0.8,0.3,0.1
+Cif Cream Cleaner,Cif,500 ml,150,Home Cleaning,0.2,0.3,0.6,0.8,0.3,0.1
+Odonil Room Freshener,Odonil,50 g,55,Home Cleaning,0.2,0.3,0.4,0.6,0.6,0.1
+Air Wick Freshener,Air Wick,250 ml,220,Home Cleaning,0.2,0.3,0.7,0.6,0.6,0.1
+Good Knight Mosquito Repellent,Good Knight,45 ml,75,Home Cleaning,0.2,0.3,0.4,0.8,0.3,0.1
+All Out Mosquito Repellent,All Out,45 ml,75,Home Cleaning,0.2,0.3,0.4,0.8,0.3,0.1
+Mortein Mosquito Spray,Mortein,400 ml,260,Home Cleaning,0.2,0.3,0.7,0.8,0.3,0.1
+Hit Cockroach Spray,Hit,400 ml,250,Home Cleaning,0.2,0.3,0.7,0.8,0.3,0.1
+Godrej Ezee Liquid Detergent,Godrej,500 ml,110,Home Cleaning,0.2,0.3,0.6,0.8,0.3,0.1
+Scotch Brite Scrubber,Scotch Brite,1 pc,30,Home Cleaning,0.2,0.3,0.4,0.8,0.3,0.1
+Gala Floor Wiper,Gala,1 pc,380,Home Cleaning,0.2,0.3,0.7,0.8,0.3,0.1
+Gala Broom,Gala,1 pc,200,Home Cleaning,0.2,0.3,0.6,0.8,0.3,0.1
+Gala Mop,Gala,1 pc,340,Home Cleaning,0.2,0.3,0.7,0.8,0.3,0.1
+Exo Dishwash Bar,Exo,250 g,25,Home Cleaning,0.2,0.3,0.2,0.8,0.3,0.1
+Exo Dishwash Round,Exo,500 g,40,Home Cleaning,0.2,0.3,0.4,0.8,0.3,0.1
+Vim Bar,Vim,300 g,30,Home Cleaning,0.2,0.3,0.4,0.8,0.3,0.1
+Genteel Liquid Detergent,Genteel,500 ml,110,Home Cleaning,0.2,0.3,0.6,0.8,0.3,0.1
+Vanish Stain Remover,Vanish,200 ml,160,Home Cleaning,0.2,0.3,0.6,0.8,0.3,0.1
+Harpic Bathroom Cleaner,Harpic,500 ml,120,Home Cleaning,0.2,0.3,0.6,0.8,0.3,0.1
+Baygon Spray,Baygon,600 ml,300,Home Cleaning,0.2,0.3,0.7,0.8,0.3,0.1
+Kiwi Shoe Polish,Kiwi,40 ml,60,Home Cleaning,0.2,0.3,0.4,0.8,0.3,0.1
+Cherry Blossom Shoe Polish,Cherry Blossom,40 ml,65,Home Cleaning,0.2,0.3,0.4,0.8,0.3,0.1
+Colin Surface Cleaner,Colin,500 ml,110,Home Cleaning,0.2,0.3,0.6,0.8,0.3,0.1
+Dettol Surface Cleaner,Dettol,500 ml,140,Home Cleaning,0.2,0.3,0.6,0.8,0.3,0.1
+Cif Floor Cleaner,Cif,1 L,210,Home Cleaning,0.2,0.3,0.7,0.8,0.3,0.1
+Nimyle Floor Cleaner,Nimyle,1 L,200,Home Cleaning,0.2,0.3,0.6,0.8,0.3,0.1
+Ujala Supreme,Ujala,75 ml,60,Home Cleaning,0.2,0.3,0.4,0.8,0.3,0.1
+Robin Liquid Blue,Robin,50 ml,25,Home Cleaning,0.2,0.3,0.2,0.8,0.3,0.1
+Mr. White Detergent,Mr. White,1 kg,160,Home Cleaning,0.2,0.3,0.6,0.8,0.3,0.1
+Wheel Detergent,Wheel,1 kg,140,Home Cleaning,0.2,0.3,0.6,0.8,0.3,0.1
+Sunlight Detergent,Sunlight,1 kg,150,Home Cleaning,0.2,0.3,0.6,0.8,0.3,0.1
+Ghadi Detergent,Ghadi,1 kg,145,Home Cleaning,0.2,0.3,0.6,0.8,0.3,0.1
+Nirma Detergent,Nirma,1 kg,130,Home Cleaning,0.2,0.3,0.6,0.8,0.3,0.1
+Safai Detergent,Safai,1 kg,120,Home Cleaning,0.2,0.3,0.6,0.8,0.3,0.1
+Fena Detergent,Fena,1 kg,135,Home Cleaning,0.2,0.3,0.6,0.8,0.3,0.1
+Ariel Matic,Ariel,2 kg,510,Home Cleaning,0.2,0.3,0.7,0.8,0.3,0.1
+Surf Excel Matic,Surf Excel,2 kg,490,Home Cleaning,0.2,0.3,0.7,0.8,0.3,0.1
+Vim Liquid Gel,Vim,750 ml,210,Home Cleaning,0.2,0.3,0.7,0.8,0.3,0.1
+Pril Dishwash Liquid,Pril,750 ml,225,Home Cleaning,0.2,0.3,0.7,0.8,0.3,0.1
+Godrej Aer Spray,Godrej,240 ml,280,Home Cleaning,0.2,0.3,0.7,0.8,0.3,0.1
+Godrej Aer Pocket,Godrej,10 g,50,Home Cleaning,0.2,0.3,0.4,0.8,0.3,0.1
+Odomos Mosquito Repellent Cream,Odomos,100 g,95,Home Cleaning,0.2,0.3,0.4,0.8,0.3,0.1
+Dettol Liquid Handwash Refill,Dettol,750 ml,140,Home Cleaning,0.2,0.3,0.6,0.8,0.3,0.1
+Lifebuoy Liquid Handwash Refill,Lifebuoy,750 ml,125,Home Cleaning,0.2,0.3,0.6,0.8,0.3,0.1
+Domex Floor Cleaner,Domex,1 L,190,Home Cleaning,0.2,0.3,0.6,0.8,0.3,0.1
+Harpic Power Plus,Harpic,1 L,200,Home Cleaning,0.2,0.3,0.6,0.8,0.3,0.1
+Lizol Disinfectant Spray,Lizol,500 ml,230,Home Cleaning,0.2,0.3,0.7,0.8,0.3,0.1
+Dettol Disinfectant Spray,Dettol,450 ml,290,Home Cleaning,0.2,0.3,0.7,0.8,0.3,0.1
+Maggi 2-Min Noodles,Maggi,280 g,54,Instant & Ready-to-eat,0.6,0.9,0.3,1.0,0.2,0.4
+Top Ramen,Top Ramen,280 g,50,Instant & Ready-to-eat,0.6,0.9,0.3,1.0,0.2,0.4
+Knorr Soup,Knorr,45 g,42,Instant & Ready-to-eat,0.6,0.9,0.3,1.0,0.2,0.4
+Ready-to-Eat Dal Makhani,MTR,300 g,105,Instant & Ready-to-eat,0.6,1.0,0.5,1.0,0.2,0.4
+Ready-to-Eat Paneer Butter Masala,MTR,300 g,120,Instant & Ready-to-eat,0.6,1.0,0.5,1.0,0.2,0.4
+Ready-to-Eat Chana Masala,MTR,300 g,105,Instant & Ready-to-eat,0.6,1.0,0.5,1.0,0.2,0.4
+Ready-to-Eat Rajma,MTR,300 g,105,Instant & Ready-to-eat,0.6,1.0,0.5,1.0,0.2,0.4
+Ready-to-Eat Pav Bhaji,MTR,300 g,110,Instant & Ready-to-eat,0.6,1.0,0.5,1.0,0.2,0.4
+Ready-to-Eat Aloo Matar,MTR,300 g,100,Instant & Ready-to-eat,0.6,1.0,0.3,1.0,0.2,0.4
+Cup Noodles (Masala),Maggi,70 g,40,Instant & Ready-to-eat,0.6,0.9,0.3,1.0,0.2,0.4
+Cup Noodles (Chicken),Maggi,70 g,45,Instant & Ready-to-eat,0.6,0.9,0.3,1.0,0.2,0.4
+Cup Noodles (Veg),Cup Noodles,70 g,50,Instant & Ready-to-eat,0.6,0.9,0.3,1.0,0.2,0.4
+Cup Noodles (Manchurian),Cup Noodles,70 g,50,Instant & Ready-to-eat,0.6,0.9,0.3,1.0,0.2,0.4
+Pasta (Masala),Maggi,65 g,30,Instant & Ready-to-eat,0.6,0.9,0.3,1.0,0.2,0.4
+Pasta (Cheese),Maggi,65 g,35,Instant & Ready-to-eat,0.6,0.9,0.3,1.0,0.2,0.4
+Yippee Noodles,Yippee,280 g,52,Instant & Ready-to-eat,0.6,0.9,0.3,1.0,0.2,0.4
+Sunfeast Yippee Magic Masala,Yippee,240 g,50,Instant & Ready-to-eat,0.6,0.9,0.3,1.0,0.2,0.4
+Sunfeast Yippee Tricolor Pasta,Yippee,65 g,30,Instant & Ready-to-eat,0.6,0.9,0.3,1.0,0.2,0.4
+Ching's Secret Hakka Noodles,Ching's Secret,150 g,42,Instant & Ready-to-eat,0.6,0.9,0.3,1.0,0.2,0.4
+Ching's Secret Schezwan Noodles,Ching's Secret,150 g,45,Instant & Ready-to-eat,0.6,0.9,0.3,1.0,0.2,0.4
+Ching's Secret Veg Hakka Noodles,Ching's Secret,150 g,45,Instant & Ready-to-eat,0.6,0.9,0.3,1.0,0.2,0.4
+Knorr Soupy Noodles,Knorr,75 g,45,Instant & Ready-to-eat,0.6,0.9,0.3,1.0,0.2,0.4
+Knorr Cup-a-Soup,Knorr,10 g,22,Instant & Ready-to-eat,0.6,0.9,0.1,1.0,0.2,0.4
+Maggi Hot & Sweet Tomato Chilli Sauce,Maggi,500 g,125,Instant & Ready-to-eat,0.9,0.9,0.5,1.0,0.2,0.4
+Maggi Masala-ae-Magic,Maggi,72 g,55,Instant & Ready-to-eat,0.6,0.9,0.3,1.0,0.2,0.4
+Poha,MTR,180 g,40,Instant & Ready-to-eat,0.6,0.9,0.3,1.0,0.2,0.4
+Upma,MTR,180 g,40,Instant & Ready-to-eat,0.6,0.9,0.3,1.0,0.2,0.4
+Ready-to-Eat Biryani,MTR,300 g,130,Instant & Ready-to-eat,0.6,1.0,0.5,1.0,0.2,0.4
+Ready-to-Eat Pulao,MTR,300 g,120,Instant & Ready-to-eat,0.6,1.0,0.5,1.0,0.2,0.4
+Haldiram's Minute Khana Dal Tadka,Haldiram's,300 g,110,Instant & Ready-to-eat,0.6,0.9,0.5,1.0,0.2,0.4
+Haldiram's Minute Khana Paneer Makhani,Haldiram's,300 g,125,Instant & Ready-to-eat,0.6,0.9,0.5,1.0,0.2,0.4
+Haldiram's Minute Khana Palak Paneer,Haldiram's,300 g,125,Instant & Ready-to-eat,0.6,0.9,0.5,1.0,0.2,0.4
+Haldiram's Minute Khana Chole,Haldiram's,300 g,110,Instant & Ready-to-eat,0.6,0.9,0.5,1.0,0.2,0.4
+Haldiram's Bhel Puri,Haldiram's,200 g,80,Instant & Ready-to-eat,0.6,0.9,0.3,1.0,0.2,0.4
+Haldiram's Sev Puri,Haldiram's,200 g,80,Instant & Ready-to-eat,0.6,0.9,0.3,1.0,0.2,0.4
+Haldiram's Dahi Puri,Haldiram's,200 g,85,Instant & Ready-to-eat,0.6,0.9,0.3,1.0,0.2,0.4
+Nissin Cup Noodles (Masala),Nissin,70 g,45,Instant & Ready-to-eat,0.6,0.9,0.3,1.0,0.2,0.4
+Nissin Cup Noodles (Chicken),Nissin,70 g,50,Instant & Ready-to-eat,0.6,0.9,0.3,1.0,0.2,0.4
+Patanjali Noodles,Patanjali,240 g,45,Instant & Ready-to-eat,0.6,0.9,0.3,1.0,0.2,0.4
+Wai Wai Noodles,Wai Wai,70 g,15,Instant & Ready-to-eat,0.6,0.9,0.1,1.0,0.2,0.4
+Wai Wai Chicken Noodles,Wai Wai,70 g,20,Instant & Ready-to-eat,0.6,0.9,0.1,1.0,0.2,0.4
+Chings Manchurian Noodles,Ching's Secret,240 g,52,Instant & Ready-to-eat,0.6,0.9,0.3,1.0,0.2,0.4
+MTR 3-Minute Breakfast (Oats),MTR,60 g,35,Instant & Ready-to-eat,0.6,1.0,0.3,1.0,0.2,0.4
+MTR 3-Minute Breakfast (Poha),MTR,60 g,35,Instant & Ready-to-eat,0.6,1.0,0.3,1.0,0.2,0.4
+MTR 3-Minute Breakfast (Upma),MTR,60 g,35,Instant & Ready-to-eat,0.6,1.0,0.3,1.0,0.2,0.4
+Maggi Vegetable Atta Noodles,Maggi,240 g,56,Instant & Ready-to-eat,0.6,0.9,0.3,1.0,0.2,0.4
+Maggi Oats Noodles,Maggi,290 g,56,Instant & Ready-to-eat,0.6,0.9,0.3,1.0,0.2,0.4
+Smith & Jones Masala Noodles,Smith & Jones,240 g,48,Instant & Ready-to-eat,0.6,0.9,0.3,1.0,0.2,0.4
+Smith & Jones Pasta,Smith & Jones,80 g,32,Instant & Ready-to-eat,0.6,0.9,0.3,1.0,0.2,0.4
+Bambino Vermicelli Roasted,Bambino,500 g,60,Instant & Ready-to-eat,0.6,0.9,0.3,1.0,0.2,0.4
+Bambino Macaroni,Bambino,500 g,65,Instant & Ready-to-eat,0.6,0.9,0.3,1.0,0.2,0.4
+Bambino Pasta,Bambino,500 g,75,Instant & Ready-to-eat,0.6,0.9,0.3,1.0,0.2,0.4
+Dabur Hommade Coconut Milk,Dabur,200 ml,75,Instant & Ready-to-eat,0.6,0.9,0.3,1.0,0.4,0.4
+Dabur Hommade Tomato Puree,Dabur,200 g,35,Instant & Ready-to-eat,0.6,0.9,0.3,1.0,0.2,0.4
+Kitchens of India Butter Chicken,Kitchens of India,285 g,150,Instant & Ready-to-eat,0.6,0.9,0.5,1.0,0.2,0.4
+Kitchens of India Hyderabadi Biryani,Kitchens of India,285 g,160,Instant & Ready-to-eat,0.6,0.9,0.5,1.0,0.2,0.4
+Kitchens of India Dal Bukhara,Kitchens of India,285 g,145,Instant & Ready-to-eat,0.6,0.9,0.5,1.0,0.2,0.4
+ITC Master Chef Prawns Curry,ITC Master Chef,285 g,170,Instant & Ready-to-eat,0.6,0.9,0.5,0.8,0.2,0.4
+ITC Master Chef Chicken Curry,ITC Master Chef,285 g,160,Instant & Ready-to-eat,0.6,0.9,0.5,1.0,0.2,0.4
+Tata Q Heat to Eat Dal Tadka,Tata Q,330 g,110,Instant & Ready-to-eat,0.6,0.9,0.5,1.0,0.2,0.4
+Tata Q Heat to Eat Paneer Tikka Masala,Tata Q,330 g,130,Instant & Ready-to-eat,0.6,0.9,0.5,1.0,0.2,0.4
+Tata Q Heat to Eat Chicken Curry,Tata Q,330 g,140,Instant & Ready-to-eat,0.6,0.9,0.5,1.0,0.2,0.4
+Chef's Basket Pasta,Chef's Basket,280 g,180,Instant & Ready-to-eat,0.6,0.9,0.5,1.0,0.2,0.4
+Chef's Basket Penne Arrabbiata,Chef's Basket,280 g,180,Instant & Ready-to-eat,0.6,0.9,0.5,1.0,0.2,0.4
+Chef's Basket Spaghetti Aglio Olio,Chef's Basket,280 g,180,Instant & Ready-to-eat,0.6,0.9,0.5,1.0,0.2,0.4
+Weikfield Pasta Masala,Weikfield,64 g,36,Instant & Ready-to-eat,0.6,0.9,0.3,1.0,0.2,0.4
+Weikfield Custard Powder,Weikfield,100 g,50,Instant & Ready-to-eat,0.6,0.9,0.3,1.0,0.2,0.4
+Weikfield Baking Powder,Weikfield,100 g,45,Instant & Ready-to-eat,0.6,0.9,0.3,1.0,0.2,0.4
+Del Monte Pasta,Del Monte,500 g,125,Instant & Ready-to-eat,0.6,0.9,0.5,1.0,0.2,0.4
+Del Monte Spaghetti,Del Monte,500 g,125,Instant & Ready-to-eat,0.6,0.9,0.5,1.0,0.2,0.4
+Del Monte Macaroni,Del Monte,500 g,120,Instant & Ready-to-eat,0.6,0.9,0.5,1.0,0.2,0.4
+Del Monte Pasta Sauce (Arabiatta),Del Monte,320 g,160,Instant & Ready-to-eat,0.6,0.9,0.5,1.0,0.2,0.4
+Del Monte Pasta Sauce (Cheese),Del Monte,320 g,160,Instant & Ready-to-eat,0.6,0.9,0.5,1.0,0.2,0.4
+Ching's Instant Soup,Ching's Secret,15 g,10,Instant & Ready-to-eat,0.6,1.0,0.1,1.0,0.2,0.4
+Basmati Rice,India Gate,1 kg,110,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Toor Dal,Tata Sampann,1 kg,145,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Moong Dal,Tata Sampann,1 kg,165,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Chana Dal,Tata Sampann,1 kg,120,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Urad Dal,Tata Sampann,1 kg,170,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Masoor Dal,Tata Sampann,1 kg,130,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Turmeric Powder,MDH,100 g,40,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Red Chilli Powder,MDH,100 g,60,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Coriander Powder,MDH,100 g,50,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Garam Masala,MDH,100 g,85,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Chicken Masala,MDH,100 g,85,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Pav Bhaji Masala,MDH,100 g,70,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Chaat Masala,MDH,100 g,70,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Sambhar Masala,MDH,100 g,75,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Kashmiri Chilli Powder,Everest,100 g,75,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Kitchen King Masala,Everest,100 g,75,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Sabzi Masala,Everest,100 g,70,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Fish Curry Masala,Everest,100 g,75,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Meat Masala,Everest,100 g,75,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Mustard Oil,Fortune,1 L,170,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Refined Oil,Fortune,1 L,150,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Olive Oil,Borges,250 ml,350,Cooking Essentials,0.3,0.2,0.6,0.3,0.5,0.3
+Sunflower Oil,Sunpure,1 L,160,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Rice Bran Oil,Fortune,1 L,180,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Groundnut Oil,Gemini,1 L,210,Cooking Essentials,0.3,0.2,0.6,0.3,0.5,0.3
+Coconut Oil,Parachute,500 ml,240,Cooking Essentials,0.3,0.2,0.6,0.3,0.5,0.3
+Saffola Gold,Saffola,1 L,200,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Sugar,Madhur,1 kg,50,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Salt,Tata,1 kg,25,Cooking Essentials,0.3,0.2,0.1,0.3,0.5,0.3
+Atta,Aashirvaad,5 kg,240,Cooking Essentials,0.3,0.2,0.6,0.3,0.5,0.3
+Besan,Rajdhani,500 g,50,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Sooji,Rajdhani,500 g,35,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Poha,Rajdhani,500 g,55,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Basmati Rice (Premium),Daawat,1 kg,160,Cooking Essentials,0.3,0.2,0.8,0.3,0.5,0.3
+Brown Rice,Daawat,1 kg,135,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Sona Masoori Rice,24 Mantra,1 kg,90,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Red Rice,24 Mantra,1 kg,120,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Black Rice,24 Mantra,1 kg,290,Cooking Essentials,0.3,0.2,0.6,0.3,0.5,0.3
+Quinoa,Organic Tattva,500 g,250,Cooking Essentials,0.3,0.2,0.9,0.3,0.8,0.3
+Himalayan Pink Salt,24 Mantra,500 g,120,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Black Salt,Catch,100 g,30,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Rock Salt,Catch,200 g,40,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Table Salt,Tata,1 kg,25,Cooking Essentials,0.3,0.2,0.1,0.3,0.5,0.3
+Iodized Salt,Tata,1 kg,30,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Sea Salt,24 Mantra,500 g,110,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Brown Sugar,Organic Tattva,500 g,120,Cooking Essentials,0.3,0.2,0.8,0.3,0.8,0.3
+Jaggery Powder,Organic Tattva,500 g,90,Cooking Essentials,0.3,0.2,0.6,0.3,0.8,0.3
+Palm Sugar,Organic Tattva,500 g,160,Cooking Essentials,0.3,0.2,0.8,0.3,0.8,0.3
+Coconut Sugar,Organic Tattva,500 g,180,Cooking Essentials,0.3,0.2,0.8,0.3,0.8,0.3
+White Sugar Cubes,Trust,500 g,60,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Stevia,So Sweet,100 g,200,Cooking Essentials,0.6,0.2,0.5,0.3,0.5,0.3
+Honey,Dabur,250 g,140,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Organic Honey,24 Mantra,250 g,220,Cooking Essentials,0.3,0.2,0.9,0.3,0.8,0.3
+Maple Syrup,Imported,250 ml,400,Cooking Essentials,0.3,0.2,0.9,0.3,0.5,0.3
+Agave Nectar,Imported,250 ml,350,Cooking Essentials,0.3,0.2,0.9,0.3,0.5,0.3
+Vinegar (White),Heinz,473 ml,160,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Vinegar (Apple Cider),Bragg,473 ml,450,Cooking Essentials,0.3,0.2,0.6,0.3,0.5,0.3
+Vinegar (Balsamic),Borges,250 ml,300,Cooking Essentials,0.3,0.2,0.6,0.3,0.5,0.3
+Soy Sauce,Ching's Secret,200 ml,85,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Green Chilli Sauce,Ching's Secret,200 ml,85,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Red Chilli Sauce,Ching's Secret,200 ml,85,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Tomato Ketchup,Kissan,950 g,135,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Mayonnaise,Dr. Oetker FunFoods,275 g,140,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Mustard Sauce,Dr. Oetker FunFoods,275 g,140,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Pasta Sauce (Arrabiata),Del Monte,400 g,190,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Pasta Sauce (Cheese),Del Monte,400 g,190,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Pizza Sauce,Dr. Oetker FunFoods,325 g,140,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+BBQ Sauce,Dr. Oetker FunFoods,325 g,140,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Maida,Rajdhani,500 g,30,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Corn Flour,Weikfield,500 g,55,Cooking Essentials,0.3,0.0,0.3,0.3,0.5,0.3
+Rice Flour,24 Mantra,500 g,60,Cooking Essentials,0.3,0.0,0.3,0.3,0.5,0.3
+Oats,Quaker,1 kg,200,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Muesli,Kellogg's,500 g,280,Cooking Essentials,0.3,0.2,0.6,0.3,0.5,0.3
+Cornflakes,Kellogg's,500 g,200,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Baking Soda,Urban Platter,200 g,60,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Baking Powder,Urban Platter,200 g,70,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Yeast,Urban Platter,100 g,90,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Vanilla Essence,Urban Platter,100 ml,120,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Food Color (Red),Urban Platter,20 ml,40,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Food Color (Green),Urban Platter,20 ml,40,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Food Color (Yellow),Urban Platter,20 ml,40,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Cardamom (Green),Everest,50 g,190,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Cinnamon,Everest,50 g,100,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Cloves,Everest,50 g,140,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Black Pepper,Everest,100 g,190,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Cumin Seeds,Everest,100 g,80,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Mustard Seeds,Everest,100 g,50,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Fenugreek Seeds,Everest,100 g,40,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Coriander Seeds,Everest,100 g,60,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Bay Leaves,Everest,20 g,40,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Star Anise,Everest,50 g,120,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Fennel Seeds,Everest,100 g,70,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Sesame Seeds,Everest,100 g,60,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Poppy Seeds,Everest,100 g,130,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Oregano,Keya,30 g,95,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Thyme,Keya,30 g,95,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Rosemary,Keya,30 g,95,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Basil,Keya,30 g,95,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Mixed Herbs,Keya,30 g,95,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Italian Seasoning,Keya,30 g,95,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Black Cardamom,Everest,50 g,200,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Ajwain,Everest,100 g,60,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Asafoetida (Hing),LG,50 g,90,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Mace,Everest,10 g,120,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Nutmeg,Everest,50 g,210,Cooking Essentials,0.3,0.2,0.6,0.3,0.5,0.3
+Tamarind,24 Mantra,200 g,80,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Dried Red Chillies,MDH,100 g,70,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Javitri,MDH,10 g,110,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Kabab Chini,MDH,50 g,180,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Whole Black Pepper,MDH,100 g,180,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Kasuri Methi,MDH,50 g,60,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Dalchini,MDH,50 g,90,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Curry Leaves (Dried),MDH,20 g,40,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Khus Khus (Poppy Seeds),MDH,100 g,120,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Coconut (Grated),24 Mantra,200 g,70,Cooking Essentials,0.3,0.2,0.3,0.3,0.5,0.3
+Coconut Milk Powder,Maggi,100 g,180,Cooking Essentials,0.3,0.2,0.5,0.3,0.7,0.3
+Desiccated Coconut,Urban Platter,200 g,140,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Peanut Butter,Sundrop,350 g,230,Cooking Essentials,0.3,0.2,0.6,0.3,0.5,0.3
+Almond Butter,Urban Platter,200 g,650,Cooking Essentials,0.3,0.2,0.6,0.3,0.5,0.3
+Cashew Butter,Urban Platter,200 g,600,Cooking Essentials,0.3,0.2,0.6,0.3,0.5,0.3
+Chia Seeds,Urban Platter,200 g,280,Cooking Essentials,0.3,0.2,0.6,0.3,0.5,0.3
+Flax Seeds,Urban Platter,200 g,180,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Pumpkin Seeds,Urban Platter,200 g,260,Cooking Essentials,0.3,0.2,0.6,0.3,0.5,0.3
+Sunflower Seeds,Urban Platter,200 g,200,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Pine Nuts,Urban Platter,100 g,950,Cooking Essentials,0.3,0.2,0.6,0.3,0.5,0.3
+Walnuts,Urban Platter,200 g,460,Cooking Essentials,0.3,0.2,0.6,0.3,0.5,0.3
+Almonds,Urban Platter,200 g,300,Cooking Essentials,0.3,0.2,0.6,0.3,0.5,0.3
+Cashews,Urban Platter,200 g,320,Cooking Essentials,0.3,0.2,0.6,0.3,0.5,0.3
+Pistachios,Urban Platter,200 g,500,Cooking Essentials,0.3,0.2,0.6,0.3,0.5,0.3
+Raisins,Urban Platter,200 g,120,Cooking Essentials,0.3,0.2,0.5,0.3,0.5,0.3
+Anjeer (Dried Figs),Urban Platter,200 g,380,Cooking Essentials,0.3,0.2,0.6,0.3,0.5,0.3
+Khajoor (Dates),Urban Platter,400 g,220,Cooking Essentials,0.3,0.2,0.6,0.3,0.5,0.3
+Apricot (Dried),Urban Platter,200 g,340,Cooking Essentials,0.3,0.2,0.6,0.3,0.5,0.3
+Cranberries (Dried),Urban Platter,200 g,360,Cooking Essentials,0.3,0.2,0.6,0.3,0.5,0.3
+Blueberries (Dried),Urban Platter,200 g,580,Cooking Essentials,0.3,0.2,0.6,0.3,0.5,0.3
+Blackcurrants (Dried),Urban Platter,200 g,520,Cooking Essentials,0.3,0.2,0.6,0.3,0.5,0.3
+Prunes,Urban Platter,200 g,340,Cooking Essentials,0.3,0.2,0.6,0.3,0.5,0.3
+Mixed Dry Fruits,Urban Platter,500 g,650,Cooking Essentials,0.1,0.2,0.6,0.3,0.7,0.3
+Trail Mix,Urban Platter,200 g,380,Cooking Essentials,0.3,0.2,0.6,0.3,0.5,0.3
+Green Peas (Frozen),Safal,500 g,95,Frozen Foods,0.5,0.6,0.4,0.8,0.3,0.5
+Mixed Vegetables (Frozen),Safal,500 g,110,Frozen Foods,0.3,0.6,0.6,0.8,0.5,0.5
+Sweet Corn (Frozen),Safal,500 g,120,Frozen Foods,0.8,0.6,0.6,0.8,0.3,0.5
+French Fries (Frozen),McCain,450 g,130,Frozen Foods,0.5,0.6,0.6,0.8,0.3,0.5
+Potato Wedges (Frozen),McCain,450 g,140,Frozen Foods,0.5,0.6,0.6,0.8,0.3,0.5
+Aloo Tikki (Frozen),McCain,400 g,145,Frozen Foods,0.5,0.6,0.6,0.8,0.3,0.5
+Veggie Burger Patty (Frozen),McCain,360 g,165,Frozen Foods,0.5,0.6,0.6,0.8,0.3,0.5
+Cheese Corn Nuggets (Frozen),McCain,400 g,190,Frozen Foods,0.5,0.6,0.6,0.8,0.3,0.5
+Chicken Nuggets (Frozen),Venky's,500 g,280,Frozen Foods,0.5,0.6,0.7,0.8,0.3,0.5
+Chicken Sausages (Frozen),Venky's,500 g,220,Frozen Foods,0.5,0.6,0.7,0.8,0.3,0.5
+Chicken Salami (Frozen),Venky's,200 g,180,Frozen Foods,0.5,0.6,0.6,0.8,0.3,0.5
+Chicken Seekh Kebab (Frozen),Al Kabeer,450 g,300,Frozen Foods,0.5,0.6,0.7,0.8,0.3,0.5
+Mutton Seekh Kebab (Frozen),Al Kabeer,450 g,350,Frozen Foods,0.5,0.6,0.7,0.8,0.3,0.5
+Fish Fingers (Frozen),Al Kabeer,400 g,320,Frozen Foods,0.5,0.6,0.7,0.8,0.3,0.5
+Prawns (Frozen),ITC,250 g,350,Frozen Foods,0.5,0.6,0.7,0.6,0.3,0.5
+Fish Fillet (Frozen),ITC,400 g,450,Frozen Foods,0.5,0.6,0.7,0.8,0.3,0.5
+Crab Sticks (Frozen),ITC,250 g,320,Frozen Foods,0.5,0.6,0.7,0.8,0.3,0.5
+Pizza Base (Frozen),Pillsbury,400 g,120,Frozen Foods,0.5,0.6,0.6,0.8,0.3,0.5
+Naan (Frozen),Haldiram's,4 pcs,120,Frozen Foods,0.5,0.6,0.6,0.8,0.3,0.5
+Paratha (Frozen),Haldiram's,5 pcs,130,Frozen Foods,0.5,0.6,0.6,0.8,0.3,0.5
+Malabar Paratha (Frozen),ID,5 pcs,135,Frozen Foods,0.5,0.6,0.6,0.8,0.3,0.5
+Laccha Paratha (Frozen),ID,5 pcs,135,Frozen Foods,0.5,0.6,0.6,0.8,0.3,0.5
+Chocolate Ice Cream,Amul,500 ml,150,Frozen Foods,1.0,0.6,0.6,0.8,0.3,0.5
+Vanilla Ice Cream,Amul,500 ml,140,Frozen Foods,0.8,0.6,0.6,0.8,0.3,0.5
+Strawberry Ice Cream,Amul,500 ml,145,Frozen Foods,0.8,0.6,0.6,0.6,0.3,0.5
+Butterscotch Ice Cream,Amul,500 ml,145,Frozen Foods,0.8,0.6,0.6,0.8,0.3,0.5
+Kesar Pista Ice Cream,Amul,500 ml,165,Frozen Foods,0.8,0.6,0.6,0.8,0.3,0.5
+Mango Ice Cream,Amul,500 ml,150,Frozen Foods,0.8,0.6,0.6,0.8,0.3,0.5
+Black Current Ice Cream,Amul,500 ml,160,Frozen Foods,0.8,0.6,0.6,0.8,0.3,0.5
+Chocolate Brownie Ice Cream,Kwality Walls,500 ml,180,Frozen Foods,1.0,0.6,0.6,0.8,0.3,0.5
+Vanilla Chocolate Ice Cream,Kwality Walls,500 ml,170,Frozen Foods,1.0,0.6,0.6,0.8,0.3,0.5
+Cornetto (Chocolate),Kwality Walls,110 ml,60,Frozen Foods,0.8,0.6,0.4,0.8,0.3,0.5
+Cornetto (Butterscotch),Kwality Walls,110 ml,60,Frozen Foods,0.5,0.6,0.4,0.8,0.3,0.5
+Magnum (Classic),Kwality Walls,80 ml,90,Frozen Foods,0.5,0.6,0.4,0.8,0.3,0.5
+Magnum (Almond),Kwality Walls,80 ml,100,Frozen Foods,0.5,0.6,0.4,0.8,0.3,0.5
+Choco Bar,Amul,60 ml,35,Frozen Foods,0.5,0.6,0.4,0.8,0.3,0.5
+Cassata Ice Cream,Amul,100 ml,45,Frozen Foods,0.8,0.6,0.4,0.8,0.3,0.5
+Kulfi,Amul,60 ml,25,Frozen Foods,0.5,0.6,0.2,0.8,0.3,0.5
+Ice Cream Sandwich,Amul,90 ml,30,Frozen Foods,0.8,0.6,0.4,0.8,0.3,0.5
+Ice Cream Cake,Baskin Robbins,500 g,650,Frozen Foods,1.0,0.6,0.7,0.8,0.3,0.5
+Vegetable Spring Rolls (Frozen),McCain,240 g,140,Frozen Foods,0.5,0.6,0.6,0.8,0.3,0.5
+Momos (Frozen),Prasuma,12 pcs,180,Frozen Foods,0.5,0.6,0.6,0.8,0.3,0.5
+Veg Pizza (Frozen),McCain,180 g,120,Frozen Foods,0.5,0.6,0.6,0.8,0.3,0.5
+Cheese Balls (Frozen),McCain,400 g,190,Frozen Foods,0.5,0.6,0.6,0.8,0.3,0.5
+Grilled Vegetables (Frozen),Safal,500 g,160,Frozen Foods,0.3,0.6,0.6,0.8,0.5,0.5
+Spinach (Frozen),Safal,400 g,140,Frozen Foods,0.5,0.6,0.6,0.8,0.3,0.5
+Broccoli (Frozen),Safal,400 g,180,Frozen Foods,0.5,0.6,0.6,0.8,0.3,0.5
+Cauliflower (Frozen),Safal,400 g,120,Frozen Foods,0.5,0.6,0.6,0.8,0.3,0.5
+Fish Curry (Frozen),ITC,350 g,250,Frozen Foods,0.5,0.6,0.7,0.8,0.3,0.5
+Butter Chicken (Frozen),ITC,350 g,280,Frozen Foods,0.5,0.6,0.7,0.8,0.3,0.5
+Chicken Biryani (Frozen),ITC,350 g,280,Frozen Foods,0.5,0.6,0.7,0.8,0.3,0.5
+Veg Biryani (Frozen),ITC,350 g,220,Frozen Foods,0.5,0.6,0.7,0.8,0.3,0.5
+Chicken Samosa (Frozen),Al Kabeer,240 g,180,Frozen Foods,0.5,0.6,0.6,0.8,0.3,0.5
+Veg Samosa (Frozen),Al Kabeer,240 g,150,Frozen Foods,0.5,0.6,0.6,0.8,0.3,0.5
+Chicken Popcorn (Frozen),Venky's,300 g,250,Frozen Foods,0.5,0.6,0.7,0.8,0.3,0.5
+Chicken Wings (Frozen),Venky's,500 g,280,Frozen Foods,0.5,0.6,0.7,0.8,0.3,0.5
+Mutton Keema (Frozen),Al Kabeer,500 g,400,Frozen Foods,0.5,0.6,0.7,0.8,0.3,0.5
+Garlic Bread (Frozen),McCain,250 g,140,Frozen Foods,0.5,0.6,0.6,0.8,0.3,0.5
+Croissant (Frozen),Pillsbury,4 pcs,180,Frozen Foods,0.5,0.6,0.6,0.8,0.3,0.5
+Pancake (Frozen),Pillsbury,8 pcs,220,Frozen Foods,0.8,0.6,0.7,0.8,0.3,0.5
+Waffle (Frozen),Pillsbury,6 pcs,240,Frozen Foods,0.5,0.6,0.7,0.8,0.3,0.5
+Green Peas & Carrots (Frozen),Safal,500 g,120,Frozen Foods,0.5,0.6,0.6,0.8,0.3,0.5
+Fruit & Nut Ice Cream,Baskin Robbins,500 ml,350,Frozen Foods,0.8,0.6,0.7,0.8,0.3,0.5
+Cookie Dough Ice Cream,Häagen-Dazs,500 ml,699,Frozen Foods,0.8,0.6,0.7,0.8,0.3,0.5
+Paracetamol,Crocin,15 tablets,30,OTC & Wellness,0.3,0.5,0.5,0.6,0.9,0.1
+Cough Syrup,Benadryl,100 ml,125,OTC & Wellness,0.3,0.5,0.7,0.6,0.9,0.1
+Antiseptic Cream,Betadine,15 g,70,OTC & Wellness,0.3,0.5,0.5,0.6,0.9,0.1
+Bandages,Band-Aid,10 pcs,40,OTC & Wellness,0.3,0.5,0.5,0.6,0.9,0.1
+Multivitamin,Revital,30 tablets,290,OTC & Wellness,0.3,0.5,0.8,0.6,0.9,0.1
+Vitamin C,Limcee,15 tablets,20,OTC & Wellness,0.3,0.5,0.3,0.6,0.9,0.1
+Antacid,Digene,200 ml,120,OTC & Wellness,0.3,0.5,0.7,0.6,0.9,0.1
+Pain Relief Spray,Volini,40 g,175,OTC & Wellness,0.3,0.5,0.7,0.6,0.9,0.1
+Throat Lozenges,Strepsils,20 pcs,50,OTC & Wellness,0.3,0.5,0.5,0.6,0.9,0.1
+Hand Sanitizer,Dettol,200 ml,100,OTC & Wellness,0.3,0.5,0.5,0.6,0.9,0.1
+Protein Powder,Protinex,400 g,550,OTC & Wellness,0.3,0.5,0.8,0.6,1.0,0.1
+Calcium Supplement,Shelcal,30 tablets,160,OTC & Wellness,0.3,0.5,0.7,0.6,0.9,0.1
+Diabetic Supplement,Sugar Free Gold,100 tablets,230,OTC & Wellness,0.3,0.5,0.8,0.6,1.0,0.1
+Herbal Digestive,Hajmola,120 tablets,80,OTC & Wellness,0.3,0.5,0.5,0.6,0.9,0.1
+Electrolyte Solution,ORS,200 ml,20,OTC & Wellness,0.3,0.5,0.3,0.6,0.9,0.1
+Saridon,Saridon,10 tablets,35,OTC & Wellness,0.3,0.5,0.5,0.6,0.9,0.1
+Vicks VapoRub,Vicks,50 ml,145,OTC & Wellness,0.3,0.5,0.7,0.6,0.9,0.1
+ENO Fruit Salt,ENO,100 g,80,OTC & Wellness,0.3,0.5,0.5,0.6,0.9,0.1
+Iodex,Iodex,40 g,80,OTC & Wellness,0.3,0.5,0.5,0.6,0.9,0.1
+Moov Pain Relief Cream,Moov,50 g,110,OTC & Wellness,0.3,0.5,0.7,0.6,0.9,0.1
+Ibuprofen,Brufen,15 tablets,35,OTC & Wellness,0.3,0.5,0.5,0.6,0.9,0.1
+Cetirizine,Alerid,10 tablets,30,OTC & Wellness,0.3,0.5,0.5,0.6,0.9,0.1
+First Aid Kit,Dettol,1 kit,250,OTC & Wellness,0.3,0.5,0.8,0.6,0.9,0.1
+Cough Drops,Vicks,20 pcs,60,OTC & Wellness,0.3,0.5,0.5,0.6,0.9,0.1
+Cold Rub,Amrutanjan,30 ml,65,OTC & Wellness,0.3,0.5,0.5,0.6,0.9,0.1
+Omega-3 Supplement,Maxepa,30 capsules,180,OTC & Wellness,0.3,0.5,0.7,0.6,0.9,0.1
+Vitamin D3,D3 Must,60 tablets,350,OTC & Wellness,0.3,0.5,0.8,0.6,0.9,0.1
+Vitamin B Complex,Becosules,20 capsules,75,OTC & Wellness,0.3,0.5,0.5,0.6,0.9,0.1
+Liver Tonic,Liv 52,100 tablets,150,OTC & Wellness,0.3,0.5,0.7,0.6,0.9,0.1
+Ashwagandha,Patanjali,60 capsules,180,OTC & Wellness,0.3,0.5,0.7,0.6,0.9,0.1
+Giloy Tablets,Dabur,60 tablets,150,OTC & Wellness,0.3,0.5,0.7,0.6,0.9,0.1
+Chyawanprash,Dabur,500 g,290,OTC & Wellness,0.3,0.5,0.8,0.6,0.9,0.1
+Turmeric Capsules,Organic India,60 capsules,450,OTC & Wellness,0.3,0.5,1.0,0.6,1.0,0.1
+Aloe Vera Juice,Patanjali,1 L,160,OTC & Wellness,0.3,0.5,0.7,0.6,0.9,0.1
+Amla Juice,Patanjali,1 L,160,OTC & Wellness,0.3,0.5,0.7,0.6,0.9,0.1
+Green Tea Extract,Himalaya,60 capsules,190,OTC & Wellness,0.5,0.7,0.7,0.6,0.9,0.1
+Whey Protein,MuscleBlaze,1 kg,1999,OTC & Wellness,0.3,0.5,0.8,0.6,1.0,0.1
+Peanut Butter,MuscleBlaze,750 g,699,OTC & Wellness,0.3,0.5,0.8,0.6,0.9,0.1
+Protein Bar,RiteBite,50 g,70,OTC & Wellness,0.3,0.5,0.5,0.6,1.0,0.1
+Protein Cookies,Myfitness,150 g,200,OTC & Wellness,0.6,0.5,0.7,0.6,1.0,0.3
+Energy Drink,Gatorade,500 ml,60,OTC & Wellness,0.3,0.5,0.5,0.6,0.9,0.1
+Energy Bar,Yoga Bar,40 g,50,OTC & Wellness,0.3,0.5,0.5,0.6,0.9,0.1
+Glucose Powder,Glucon-D,500 g,180,OTC & Wellness,0.3,0.5,0.7,0.6,0.9,0.1
+Calamine Lotion,Himalaya,100 ml,85,OTC & Wellness,0.3,0.5,0.5,0.6,0.9,0.1
+Aloe Vera Gel,Patanjali,150 ml,90,OTC & Wellness,0.3,0.5,0.5,0.6,0.9,0.1
+Mosquito Repellent Patch,All Out,24 pcs,75,OTC & Wellness,0.3,0.5,0.5,0.6,0.9,0.1
+Mosquito Repellent Band,Goodknight,1 pc,80,OTC & Wellness,0.3,0.5,0.5,0.6,0.9,0.1
+BP Monitor,Dr. Morepen,1 pc,1800,OTC & Wellness,0.3,0.5,0.8,0.6,0.9,0.1
+Thermometer,Dr. Morepen,1 pc,150,OTC & Wellness,0.3,0.5,0.7,0.6,0.9,0.1
+Weighing Scale,Dr. Morepen,1 pc,1200,OTC & Wellness,0.3,0.5,0.8,0.6,0.9,0.1
+Face Mask (N95),3M,10 pcs,350,OTC & Wellness,0.3,0.5,0.8,0.6,0.9,0.1
+Face Mask (Surgical),3M,50 pcs,250,OTC & Wellness,0.3,0.5,0.8,0.6,0.9,0.1
+Hand Gloves,Safe Hands,100 pcs,300,OTC & Wellness,0.3,0.5,0.8,0.6,0.9,0.1
+Cotton Balls,Johnson's,100 pcs,80,OTC & Wellness,0.3,0.5,0.5,0.6,0.9,0.1
+Cotton Swabs,Johnson's,100 pcs,85,OTC & Wellness,0.3,0.5,0.5,0.6,0.9,0.1
+Gauze Bandage,3M,5 m,60,OTC & Wellness,0.3,0.5,0.5,0.6,0.9,0.1
+Adhesive Tape,3M,5 m,50,OTC & Wellness,0.3,0.5,0.5,0.6,0.9,0.1
+Antiseptic Wipes,Dettol,10 pcs,50,OTC & Wellness,0.3,0.5,0.5,0.6,0.9,0.1
+Hydrogen Peroxide,3M,100 ml,40,OTC & Wellness,0.3,0.5,0.5,0.6,0.9,0.1
+Iodine Solution,Betadine,100 ml,80,OTC & Wellness,0.3,0.5,0.5,0.6,0.9,0.1
+Eye Drops,Refresh Tears,10 ml,120,OTC & Wellness,0.5,0.7,0.7,0.4,1.0,0.1
+Cough Lozenges,Vicks,20 pcs,55,OTC & Wellness,0.3,0.5,0.5,0.6,0.9,0.1
+Herbal Tea,Organic India,25 bags,150,OTC & Wellness,0.5,0.7,1.0,0.6,1.0,0.1
+Heating Pad,Flamingo,1 pc,350,OTC & Wellness,0.3,0.5,0.8,0.6,0.9,0.1
+Ice Pack,Flamingo,1 pc,180,OTC & Wellness,0.3,0.5,0.7,0.6,0.9,0.1
+Wrist Support,Flamingo,1 pc,220,OTC & Wellness,0.3,0.5,0.8,0.6,0.9,0.1
+Ankle Support,Flamingo,1 pc,240,OTC & Wellness,0.3,0.5,0.8,0.6,0.9,0.1
+Knee Support,Flamingo,1 pc,260,OTC & Wellness,0.3,0.5,0.8,0.6,0.9,0.1
+Elbow Support,Flamingo,1 pc,240,OTC & Wellness,0.3,0.5,0.8,0.6,0.9,0.1
+Back Support Belt,Flamingo,1 pc,380,OTC & Wellness,0.3,0.5,0.8,0.6,0.9,0.1
+Neck Support Collar,Flamingo,1 pc,220,OTC & Wellness,0.3,0.5,0.8,0.6,0.9,0.1
+Digital Thermometer,Dr. Morepen,1 pc,250,OTC & Wellness,0.3,0.5,0.8,0.6,0.9,0.1
+Infrared Thermometer,Dr. Morepen,1 pc,1500,OTC & Wellness,0.3,0.5,0.8,0.6,0.9,0.1
+Pulse Oximeter,Dr. Morepen,1 pc,1800,OTC & Wellness,0.3,0.5,0.8,0.6,0.9,0.1
+Hot Water Bag,Flamingo,1 pc,180,OTC & Wellness,0.3,0.5,0.7,0.6,0.9,0.1
+Diabetic Socks,Flamingo,1 pair,280,OTC & Wellness,0.3,0.5,0.8,0.6,0.9,0.1
+Compression Stockings,Flamingo,1 pair,350,OTC & Wellness,0.3,0.5,0.8,0.6,0.9,0.1
+Anti-Fungal Cream,Candid,20 g,95,OTC & Wellness,0.3,0.5,0.5,0.6,0.9,0.1
+Sunscreen Lotion SPF 50,Lotus,100 g,450,OTC & Wellness,0.3,0.5,0.8,0.6,0.9,0.1
+Sunscreen Lotion SPF 30,Lotus,100 g,350,OTC & Wellness,0.3,0.5,0.8,0.6,0.9,0.1
+Calamine Lotion,Caladryl,120 ml,140,OTC & Wellness,0.3,0.5,0.7,0.6,0.9,0.1
+Clotrimazole Cream,Candid,20 g,85,OTC & Wellness,0.3,0.5,0.5,0.6,0.9,0.1
+Laxative,Dulcolax,10 tablets,120,OTC & Wellness,0.3,0.5,0.7,0.6,0.9,0.1
+Antacid Tablets,Gelusil,10 tablets,35,OTC & Wellness,0.3,0.5,0.5,0.6,0.9,0.1
+Activated Charcoal,Carbopol,10 tablets,60,OTC & Wellness,0.3,0.5,0.5,0.6,0.9,0.1
+Motion Sickness Pills,Avomine,10 tablets,45,OTC & Wellness,0.3,0.5,0.5,0.6,0.9,0.1
+Pregnancy Test Kit,Prega News,1 kit,80,OTC & Wellness,0.3,0.5,0.5,0.6,0.9,0.1
+Condoms,Durex,10 pcs,220,OTC & Wellness,0.3,0.5,0.8,0.6,0.9,0.1
+Lubricant,Durex,50 ml,250,OTC & Wellness,0.3,0.5,0.8,0.6,0.9,0.1
+Sanitary Pads,Whisper,8 pads,100,OTC & Wellness,0.3,0.5,0.5,0.6,0.9,0.1
+Menstrual Cup,Sirona,1 pc,450,OTC & Wellness,0.3,0.5,0.8,0.6,0.9,0.1
+Period Pain Relief Patch,Sirona,5 pcs,220,OTC & Wellness,0.3,0.5,0.8,0.6,0.9,0.1
+Heating Patch,Sirona,5 pcs,200,OTC & Wellness,0.3,0.5,0.7,0.6,0.9,0.1
+Acne Patch,Sirona,24 pcs,180,OTC & Wellness,0.3,0.5,0.7,0.6,0.9,0.1
+Face Wash for Acne,Himalaya,100 ml,120,OTC & Wellness,0.3,0.5,0.7,0.6,0.9,0.1
+Anti-Dandruff Shampoo,Head & Shoulders,340 ml,290,OTC & Wellness,0.3,0.5,0.8,0.6,0.9,0.1
+Herbal Shampoo,Biotique,200 ml,160,OTC & Wellness,0.3,0.5,0.7,0.6,0.9,0.1
+Hand Cream,Neutrogena,75 ml,250,OTC & Wellness,0.3,0.5,0.8,0.6,0.9,0.1
+Foot Cream,Scholl,75 ml,280,OTC & Wellness,0.3,0.5,0.8,0.6,0.9,0.1
+Lip Balm (Medicated),Himalaya,10 g,100,OTC & Wellness,0.3,0.5,0.5,0.6,0.9,0.1
+Moisturizer for Sensitive Skin,Cetaphil,100 ml,350,OTC & Wellness,0.3,0.5,0.8,0.6,0.9,0.1
+Lactose Enzyme Tablets,Lactaid,30 tablets,380,OTC & Wellness,0.3,0.5,0.8,0.6,0.9,0.1
+Chocolate Cake,Monginis,500 g,350,Bakery,1.0,0.5,0.7,0.6,0.3,0.6
+Vanilla Cake,Monginis,500 g,320,Bakery,1.0,0.5,0.7,0.6,0.3,0.6
+Black Forest Cake,Monginis,500 g,380,Bakery,1.0,0.5,0.7,0.6,0.3,0.6
+Pineapple Cake,Monginis,500 g,350,Bakery,1.0,0.5,0.7,0.6,0.3,0.6
+Brownie,Monginis,100 g,50,Bakery,0.7,0.5,0.4,0.6,0.3,0.6
+Muffin (Chocolate),Monginis,60 g,35,Bakery,1.0,0.5,0.4,0.6,0.3,0.6
+Muffin (Vanilla),Monginis,60 g,35,Bakery,0.7,0.5,0.4,0.6,0.3,0.6
+Pastry (Chocolate),Monginis,100 g,45,Bakery,1.0,0.5,0.4,0.6,0.3,0.6
+Pastry (Butterscotch),Monginis,100 g,45,Bakery,0.7,0.5,0.4,0.6,0.3,0.6
+Bread (White),Britannia,400 g,45,Bakery,0.7,0.5,0.4,0.6,0.3,0.6
+Bread (Brown),Britannia,400 g,50,Bakery,0.7,0.5,0.4,0.6,0.3,0.6
+Bread (Multigrain),Britannia,400 g,55,Bakery,0.7,0.5,0.4,0.6,0.3,0.6
+Garlic Bread,Harvest Gold,200 g,60,Bakery,0.7,0.5,0.4,0.6,0.3,0.6
+Pav,Harvest Gold,6 pcs,30,Bakery,0.7,0.5,0.4,0.6,0.3,0.6
+Burger Bun,Harvest Gold,4 pcs,40,Bakery,0.7,0.5,0.4,0.6,0.3,0.6
+Hot Dog Bun,Harvest Gold,4 pcs,40,Bakery,0.7,0.5,0.4,0.6,0.3,0.6
+Pizza Base,Harvest Gold,2 pcs,35,Bakery,0.7,0.5,0.4,0.6,0.3,0.6
+Croissant,Monginis,60 g,45,Bakery,0.7,0.5,0.4,0.6,0.3,0.6
+Danish Pastry,Monginis,70 g,50,Bakery,0.7,0.5,0.4,0.6,0.3,0.6
+Doughnut,Monginis,60 g,40,Bakery,0.7,0.5,0.4,0.6,0.3,0.6
+Cupcake,Monginis,60 g,40,Bakery,1.0,0.5,0.4,0.6,0.3,0.6
+Cookies (Chocolate Chip),Britannia,100 g,40,Bakery,1.0,0.5,0.4,0.6,0.3,0.8
+Cookies (Butter),Britannia,100 g,40,Bakery,1.0,0.5,0.4,0.6,0.3,0.8
+Cookies (Oatmeal),Britannia,100 g,45,Bakery,1.0,0.5,0.4,0.6,0.3,0.8
+Marie Gold,Britannia,250 g,30,Bakery,0.7,0.5,0.4,0.6,0.3,0.6
+Good Day,Britannia,250 g,45,Bakery,0.7,0.5,0.4,0.6,0.3,0.6
+Hide & Seek,Parle,250 g,45,Bakery,0.7,0.5,0.4,0.6,0.3,0.6
+Bourbon,Britannia,150 g,30,Bakery,0.7,0.5,0.4,0.6,0.3,0.6
+Little Hearts,Britannia,37 g,10,Bakery,0.7,0.5,0.2,0.6,0.3,0.6
+50-50,Britannia,150 g,25,Bakery,0.7,0.5,0.2,0.6,0.3,0.6
+Monaco,Parle,150 g,25,Bakery,0.7,0.5,0.2,0.6,0.3,0.6
+Krackjack,Parle,150 g,25,Bakery,0.7,0.5,0.2,0.6,0.3,0.6
+Nankhatai,Monginis,200 g,60,Bakery,0.7,0.5,0.4,0.6,0.3,0.6
+Rusk,Premium,200 g,40,Bakery,0.7,0.5,0.7,0.6,0.3,0.6
+Cream Roll,Monginis,60 g,35,Bakery,0.7,0.5,0.4,0.6,0.3,0.6
+Puffs (Veg),Monginis,80 g,30,Bakery,0.7,0.5,0.4,0.6,0.3,0.6
+Puffs (Chicken),Monginis,80 g,40,Bakery,0.7,0.5,0.4,0.6,0.3,0.6
+Sandwich Bread,Britannia,400 g,45,Bakery,0.7,0.5,0.4,0.6,0.3,0.6
+Fruit Cake,Monginis,250 g,120,Bakery,1.0,0.5,0.6,0.6,0.3,0.6
+Plum Cake,Monginis,250 g,150,Bakery,1.0,0.5,0.6,0.6,0.3,0.6
+Marble Cake,Monginis,250 g,100,Bakery,1.0,0.5,0.4,0.6,0.3,0.6
+Cheese Straws,Baker's Basket,100 g,60,Bakery,0.7,0.5,0.4,0.4,0.3,0.6
+Khari,Baker's Basket,200 g,70,Bakery,0.7,0.5,0.4,0.6,0.3,0.6
+Toast,Premium,200 g,40,Bakery,0.7,0.5,0.7,0.6,0.3,0.6
+Bread Crumbs,Premium,200 g,50,Bakery,0.7,0.5,0.7,0.6,0.3,0.6
+Biscotti,Premium,150 g,180,Bakery,0.7,0.5,0.9,0.6,0.3,0.6
+Bagel,Premium,4 pcs,120,Bakery,0.7,0.5,0.9,0.6,0.3,0.6
+Focaccia,Premium,200 g,160,Bakery,0.7,0.5,0.9,0.6,0.3,0.6
+Ciabatta,Premium,200 g,150,Bakery,0.7,0.5,0.9,0.6,0.3,0.6
+Sourdough Bread,Premium,400 g,180,Bakery,0.7,0.5,0.9,0.6,0.3,0.6
+Baguette,Premium,250 g,120,Bakery,0.7,0.5,0.9,0.6,0.3,0.6
+Pita Bread,Premium,6 pcs,90,Bakery,0.7,0.5,0.7,0.6,0.3,0.6
+English Muffins,Premium,6 pcs,160,Bakery,0.7,0.5,0.9,0.6,0.3,0.6
+Cinnamon Roll,Monginis,80 g,60,Bakery,0.7,0.5,0.4,0.6,0.3,0.6
+Chocolate Chip Cookie,Monginis,60 g,25,Bakery,1.0,0.5,0.2,0.6,0.3,0.6
+Macaron,Premium,6 pcs,240,Bakery,0.7,0.5,1.0,0.6,0.3,0.6
+Biscuit Assortment,Sunfeast,300 g,120,Bakery,0.7,0.5,0.6,0.6,0.3,0.6
+Fruit Biscuits,Britannia,150 g,30,Bakery,0.9,0.5,0.4,0.6,0.3,0.6
+Crackers,Premium,200 g,80,Bakery,0.7,0.5,0.7,0.6,0.3,0.6
+Cheese Crackers,Premium,200 g,90,Bakery,0.7,0.5,0.7,0.6,0.3,0.6
+Wheat Crackers,Premium,200 g,85,Bakery,0.7,0.5,0.7,0.6,0.3,0.6
+Multigrain Crackers,Premium,200 g,95,Bakery,0.7,0.5,0.7,0.6,0.3,0.6
+Gluten-Free Bread,Premium,300 g,180,Bakery,0.7,0.5,0.9,0.6,0.3,0.6
+Dairy-Free Cake,Premium,500 g,420,Bakery,1.0,0.5,1.0,0.6,0.3,0.6
+Sugar-Free Cookies,Premium,200 g,160,Bakery,1.0,0.5,0.9,0.6,0.3,0.8
+Eggless Cake,Monginis,500 g,360,Bakery,1.0,0.5,0.7,0.6,0.3,0.6
+Vegan Muffins,Premium,4 pcs,240,Bakery,0.7,0.5,1.0,0.6,0.3,0.6
+Whole Wheat Bread,Premium,400 g,60,Bakery,0.7,0.5,0.7,0.6,0.3,0.6
+Chocolate Gift Box,Cadbury,200 g,250,Gifting & Festive,0.9,0.4,1.0,0.5,0.4,1.0
+Chocolate Hamper,Cadbury,500 g,650,Gifting & Festive,0.9,0.4,1.0,0.5,0.4,0.9
+Ferrero Rocher,Ferrero Rocher,16 pcs,550,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,0.9
+Dry Fruit Gift Box,Premium,500 g,850,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,1.0
+Assorted Sweets,Haldiram's,500 g,350,Gifting & Festive,0.9,0.4,1.0,0.5,0.4,0.9
+Rasgulla,Haldiram's,1 kg,320,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,0.9
+Gulab Jamun,Haldiram's,1 kg,300,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,0.9
+Soan Papdi,Haldiram's,500 g,200,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,0.9
+Kaju Katli,Haldiram's,500 g,650,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,0.9
+Besan Ladoo,Haldiram's,500 g,250,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,0.9
+Motichoor Ladoo,Haldiram's,500 g,250,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,0.9
+Diwali Gift Hamper,Premium,1 set,1200,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,1.0
+Rakhi Gift Hamper,Premium,1 set,850,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,1.0
+Christmas Gift Hamper,Premium,1 set,1100,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,1.0
+New Year Gift Hamper,Premium,1 set,1200,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,1.0
+Birthday Gift Hamper,Premium,1 set,950,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,1.0
+Anniversary Gift Hamper,Premium,1 set,1500,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,1.0
+Corporate Gift Hamper,Premium,1 set,2200,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,1.0
+Tea Gift Set,Premium,1 set,750,Gifting & Festive,0.8,0.6,1.0,0.5,0.4,1.0
+Coffee Gift Set,Premium,1 set,850,Gifting & Festive,0.8,0.6,1.0,0.5,0.4,1.0
+Wine Gift Set,Premium,1 set,1800,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,1.0
+Whiskey Gift Set,Premium,1 set,2500,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,1.0
+Diwali Diyas,Handcrafted,6 pcs,250,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,0.9
+Diwali Lantern,Handcrafted,1 pc,350,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,0.9
+Diwali Candles,Handcrafted,6 pcs,300,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,0.9
+Holi Colors (Organic),Premium,5 colors,450,Gifting & Festive,0.6,0.4,1.0,0.5,0.7,0.9
+Holi Water Gun,Premium,1 pc,180,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,0.9
+Holi Gift Hamper,Premium,1 set,750,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,1.0
+Rakhi with Sweets,Premium,1 set,450,Gifting & Festive,0.9,0.4,1.0,0.5,0.4,0.9
+Rakhi with Dry Fruits,Premium,1 set,650,Gifting & Festive,0.4,0.4,1.0,0.5,0.6,0.9
+Christmas Tree,Premium,1 pc,1200,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,0.9
+Christmas Decoration Set,Premium,1 set,850,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,0.9
+Christmas Stockings,Premium,2 pcs,350,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,0.9
+Santa Hat,Premium,1 pc,150,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,0.9
+New Year Party Poppers,Premium,10 pcs,350,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,1.0
+New Year Party Hats,Premium,10 pcs,250,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,1.0
+New Year Decoration Set,Premium,1 set,650,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,0.9
+Birthday Cake Candles,Premium,24 pcs,120,Gifting & Festive,0.9,0.4,1.0,0.5,0.4,0.9
+Birthday Decoration Set,Premium,1 set,550,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,0.9
+Birthday Party Hats,Premium,10 pcs,200,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,1.0
+Wedding Gift Set,Premium,1 set,2500,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,1.0
+Wedding Return Gift,Premium,1 pc,350,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,1.0
+Baby Shower Gift Hamper,Premium,1 set,1200,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,1.0
+Handmade Chocolates,Premium,12 pcs,450,Gifting & Festive,0.9,0.4,1.0,0.5,0.4,0.9
+Gourmet Cookie Box,Premium,12 pcs,350,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,0.9
+Luxury Tea Sampler,Premium,10 varieties,850,Gifting & Festive,0.8,0.6,1.0,0.5,0.4,0.9
+Specialty Coffee Sampler,Premium,5 varieties,750,Gifting & Festive,0.8,0.6,1.0,0.5,0.4,0.9
+Artisanal Cheese Hamper,Premium,1 set,1800,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,0.9
+Wine & Cheese Hamper,Premium,1 set,2500,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,0.9
+Organic Honey Gift Set,Premium,3 varieties,850,Gifting & Festive,0.6,0.4,1.0,0.5,0.7,1.0
+Exotic Fruit Basket,Premium,1 basket,1500,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,0.9
+Gourmet Nuts Gift Box,Premium,500 g,950,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,1.0
+Handmade Soap Gift Set,Premium,6 pcs,650,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,1.0
+Scented Candle Gift Set,Premium,3 pcs,850,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,1.0
+Essential Oil Gift Set,Premium,5 oils,1200,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,1.0
+Spa Gift Hamper,Premium,1 set,1800,Gifting & Festive,0.6,0.4,1.0,0.5,0.4,1.0
+Customized Gift Hamper,Premium,1 set,Custom,Gifting & Festive,0.6,0.4,0.8,0.5,0.4,1.0
+Pencil (HB),Nataraj,10 pcs,50,Stationary,0.2,0.3,0.3,0.4,0.1,0.2
+Pen (Blue),Cello,5 pcs,50,Stationary,0.2,0.3,0.3,0.4,0.1,0.2
+Pen (Black),Cello,5 pcs,50,Stationary,0.2,0.3,0.3,0.4,0.1,0.2
+Pen (Red),Cello,5 pcs,50,Stationary,0.2,0.3,0.3,0.4,0.1,0.2
+Gel Pen,Reynolds,5 pcs,75,Stationary,0.2,0.3,0.3,0.4,0.1,0.2
+Ball Pen,Reynolds,5 pcs,50,Stationary,0.2,0.3,0.3,0.4,0.1,0.2
+Fountain Pen,Parker,1 pc,350,Stationary,0.2,0.3,0.6,0.4,0.1,0.2
+Ink Bottle,Camlin,60 ml,40,Stationary,0.2,0.3,0.3,0.4,0.1,0.2
+Ink Cartridges,Parker,5 pcs,120,Stationary,0.2,0.3,0.5,0.4,0.1,0.2
+Sketch Pens,Camlin,12 colors,50,Stationary,0.2,0.3,0.3,0.4,0.1,0.2
+Color Pencils,Faber-Castell,12 colors,120,Stationary,0.2,0.3,0.5,0.4,0.1,0.2
+Wax Crayons,Camlin,12 colors,45,Stationary,0.2,0.3,0.3,0.4,0.1,0.2
+Oil Pastels,Camlin,15 colors,75,Stationary,0.2,0.3,0.3,0.4,0.1,0.2
+Water Colors,Camlin,12 colors,80,Stationary,0.2,0.3,0.3,0.4,0.1,0.2
+Paint Brushes,Camlin,5 pcs,60,Stationary,0.2,0.3,0.3,0.4,0.1,0.2
+Drawing Book,Classmate,40 pages,40,Stationary,0.2,0.3,0.3,0.2,0.1,0.2
+Notebook (Ruled),Classmate,172 pages,50,Stationary,0.2,0.3,0.3,0.4,0.1,0.2
+Notebook (Unruled),Classmate,172 pages,50,Stationary,0.2,0.3,0.3,0.4,0.1,0.2
+Graph Book,Classmate,172 pages,55,Stationary,0.2,0.3,0.3,0.4,0.1,0.2
+Spiral Notebook,Classmate,180 pages,75,Stationary,0.2,0.3,0.3,0.4,0.1,0.2
+Sticky Notes,3M,5 colors,120,Stationary,0.2,0.3,0.5,0.4,0.1,0.2
+Index Cards,Local,100 cards,40,Stationary,0.2,0.3,0.1,0.4,0.1,0.2
+Diary,Classmate,365 pages,180,Stationary,0.2,0.3,0.5,0.4,0.1,0.2
+Planner,Classmate,365 pages,250,Stationary,0.2,0.3,0.6,0.4,0.1,0.2
+Calendar,Local,12 months,120,Stationary,0.2,0.3,0.3,0.4,0.1,0.2
+Eraser,Camlin,2 pcs,10,Stationary,0.2,0.3,0.1,0.4,0.1,0.2
+Sharpener,Camlin,2 pcs,15,Stationary,0.2,0.3,0.1,0.4,0.1,0.2
+Ruler (15cm),Camlin,1 pc,15,Stationary,0.2,0.3,0.1,0.4,0.1,0.2
+Ruler (30cm),Camlin,1 pc,25,Stationary,0.2,0.3,0.1,0.4,0.1,0.2
+Geometry Box,Camlin,1 set,120,Stationary,0.2,0.3,0.5,0.4,0.1,0.2
+Scissors,Local,1 pc,45,Stationary,0.2,0.3,0.1,0.4,0.1,0.2
+Glue Stick,Fevistick,8 g,25,Stationary,0.2,0.3,0.1,0.4,0.1,0.2
+White Glue,Fevicol,50 g,35,Stationary,0.2,0.3,0.3,0.4,0.1,0.2
+Stapler,Kangaro,1 pc,60,Stationary,0.2,0.3,0.3,0.4,0.1,0.2
+Staple Pins,Kangaro,1000 pins,25,Stationary,0.2,0.3,0.1,0.4,0.1,0.2
+Paper Clips,Local,100 pcs,20,Stationary,0.2,0.3,0.0,0.4,0.1,0.2
+Binder Clips,Local,12 pcs,40,Stationary,0.2,0.3,0.1,0.4,0.1,0.2
+Pushpins,Local,50 pcs,25,Stationary,0.2,0.3,0.0,0.4,0.1,0.2
+Whiteboard Marker,Camlin,2 pcs,50,Stationary,0.2,0.3,0.3,0.4,0.1,0.2
+Permanent Marker,Camlin,2 pcs,60,Stationary,0.2,0.3,0.3,0.4,0.1,0.2
+Highlighter,Camlin,3 colors,90,Stationary,0.2,0.3,0.3,0.4,0.1,0.2
+Correction Pen,Camlin,7 ml,40,Stationary,0.2,0.3,0.3,0.4,0.1,0.2
+Correction Tape,Camlin,5 m,45,Stationary,0.2,0.3,0.3,0.4,0.1,0.2
+File Folder,Local,5 pcs,125,Stationary,0.2,0.3,0.3,0.4,0.1,0.2
+Document Folder,Local,1 pc,40,Stationary,0.2,0.3,0.1,0.4,0.1,0.2
+Ring Binder,Local,1 pc,120,Stationary,0.2,0.3,0.3,0.4,0.1,0.2
+Clipboard,Local,1 pc,65,Stationary,0.2,0.3,0.1,0.4,0.1,0.2
+Sheet Protectors,Local,50 pcs,150,Stationary,0.2,0.3,0.3,0.4,0.1,0.2
+Paper Puncher,Kangaro,1 pc,120,Stationary,0.2,0.3,0.5,0.4,0.1,0.2
+Calculator,Casio,1 pc,350,Stationary,0.2,0.3,0.6,0.4,0.1,0.2
+Tape (Transparent),Wonder,2 rolls,40,Stationary,0.2,0.3,0.3,0.4,0.1,0.2
+Tape (Masking),Wonder,1 roll,50,Stationary,0.2,0.3,0.3,0.4,0.1,0.2
+Tape (Double-sided),Wonder,1 roll,80,Stationary,0.2,0.3,0.3,0.4,0.1,0.2
+Rubber Bands,Local,100 g,40,Stationary,0.2,0.3,0.1,0.4,0.1,0.2
+Drawing Paper,Local,20 sheets,60,Stationary,0.2,0.3,0.1,0.2,0.1,0.2
+Colored Paper,Local,20 sheets,70,Stationary,0.2,0.3,0.1,0.4,0.1,0.2
+Chart Paper,Local,5 sheets,50,Stationary,0.2,0.3,0.1,0.4,0.1,0.2
+Tracing Paper,Local,10 sheets,60,Stationary,0.2,0.3,0.1,0.4,0.1,0.2
+Carbon Paper,Local,10 sheets,40,Stationary,0.2,0.3,0.1,0.4,0.1,0.2
+Graph Paper,Local,20 sheets,30,Stationary,0.2,0.3,0.1,0.4,0.1,0.2
+A4 Paper,JK,500 sheets,350,Stationary,0.2,0.3,0.6,0.4,0.1,0.2
+A3 Paper,JK,250 sheets,450,Stationary,0.2,0.3,0.6,0.4,0.1,0.2
+Letter Pad,Local,50 sheets,70,Stationary,0.2,0.3,0.1,0.4,0.1,0.2
+Envelopes,Local,50 pcs,80,Stationary,0.2,0.3,0.1,0.4,0.1,0.2
+Post-it Flags,3M,5 colors,150,Stationary,0.2,0.3,0.5,0.4,0.1,0.2
+Pencil Box,Camlin,1 pc,120,Stationary,0.2,0.3,0.5,0.4,0.1,0.2
+Pen Stand,Local,1 pc,150,Stationary,0.2,0.3,0.3,0.4,0.1,0.2
+Desk Organizer,Local,1 pc,280,Stationary,0.2,0.3,0.4,0.4,0.1,0.2
+Whiteboard (Small),Local,1 pc,350,Stationary,0.2,0.3,0.4,0.4,0.1,0.2
+Chalk (White),Local,10 pcs,15,Stationary,0.2,0.3,0.0,0.4,0.1,0.2
+Chalk (Colored),Local,10 pcs,25,Stationary,0.2,0.3,0.0,0.4,0.1,0.2
+Ink Pad,Camlin,1 pc,60,Stationary,0.2,0.3,0.3,0.4,0.1,0.2
+Rubber Stamp,Local,1 pc,120,Stationary,0.2,0.3,0.3,0.4,0.1,0.2
+Pampers Diapers (S),Pampers,24 pcs,450,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Pampers Diapers (M),Pampers,20 pcs,450,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Pampers Diapers (L),Pampers,18 pcs,450,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Huggies Diapers (S),Huggies,24 pcs,440,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Huggies Diapers (M),Huggies,20 pcs,440,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Huggies Diapers (L),Huggies,18 pcs,440,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Baby Wipes,Johnson's,80 pcs,150,Baby & Pet Care,0.5,0.4,0.8,0.7,0.8,0.3
+Baby Shampoo,Johnson's,200 ml,180,Baby & Pet Care,0.5,0.4,0.8,0.7,0.8,0.3
+Baby Soap,Johnson's,150 g,100,Baby & Pet Care,0.5,0.4,0.6,0.7,0.8,0.3
+Baby Oil,Johnson's,200 ml,220,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Baby Powder,Johnson's,200 g,170,Baby & Pet Care,0.5,0.4,0.8,0.7,0.8,0.3
+Baby Lotion,Johnson's,200 ml,190,Baby & Pet Care,0.5,0.4,0.8,0.7,0.8,0.3
+Baby Cream,Himalaya,200 ml,160,Baby & Pet Care,0.5,0.4,0.8,0.7,0.8,0.3
+Baby Massage Oil,Himalaya,200 ml,180,Baby & Pet Care,0.5,0.4,0.8,0.7,0.8,0.3
+Baby Diaper Rash Cream,Himalaya,50 g,140,Baby & Pet Care,0.5,0.4,0.8,0.7,0.8,0.3
+Baby Laundry Detergent,Mama Earth,500 ml,350,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Baby Bottle,Pigeon,250 ml,350,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Baby Bottle Nipples,Pigeon,2 pcs,120,Baby & Pet Care,0.5,0.4,0.8,0.7,0.8,0.3
+Baby Bottle Brush,Pigeon,1 pc,150,Baby & Pet Care,0.5,0.4,0.8,0.7,0.8,0.3
+Baby Pacifier,Pigeon,1 pc,180,Baby & Pet Care,0.5,0.4,0.8,0.7,0.8,0.3
+Baby Teether,Pigeon,1 pc,220,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Baby Spoon & Fork Set,Pigeon,1 set,250,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Baby Bowl,Pigeon,1 pc,180,Baby & Pet Care,0.5,0.4,0.8,0.7,0.8,0.3
+Baby Sipper Cup,Pigeon,1 pc,320,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Baby Bib,Mee Mee,3 pcs,350,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Baby Mittens,Mee Mee,1 pair,120,Baby & Pet Care,0.5,0.4,0.8,0.7,0.8,0.3
+Baby Socks,Mee Mee,3 pairs,220,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Baby Cap,Mee Mee,1 pc,150,Baby & Pet Care,0.5,0.4,0.8,0.7,0.8,0.3
+Baby Blanket,Mee Mee,1 pc,650,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Baby Bath Tub,Mee Mee,1 pc,1200,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Baby Bath Towel,Mee Mee,1 pc,450,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Baby Hair Brush,Pigeon,1 pc,180,Baby & Pet Care,0.5,0.4,0.8,0.7,0.8,0.3
+Baby Nail Clipper,Pigeon,1 pc,120,Baby & Pet Care,0.5,0.4,0.8,0.7,0.8,0.3
+Baby Thermometer,Dr. Morepen,1 pc,250,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Baby Monitor,Motorola,1 pc,5500,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Baby Formula (0-6 months),Similac,400 g,650,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Baby Formula (6-12 months),Similac,400 g,675,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Baby Formula (12-24 months),Similac,400 g,700,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Baby Cereal,Cerelac,300 g,280,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Baby Food (Fruit Puree),Gerber,125 g,160,Baby & Pet Care,0.5,0.4,0.8,0.7,0.8,0.3
+Baby Food (Vegetable Puree),Gerber,125 g,160,Baby & Pet Care,0.5,0.4,0.8,0.7,0.8,0.3
+Baby Stroller,Luvlap,1 pc,4500,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Baby Carrier,Luvlap,1 pc,2200,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Baby Car Seat,Luvlap,1 pc,7500,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Baby Walker,Luvlap,1 pc,2800,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Baby High Chair,Luvlap,1 pc,3500,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Baby Play Mat,Luvlap,1 pc,1800,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Baby Toys (0-6 months),Fisher-Price,1 set,750,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Baby Toys (6-12 months),Fisher-Price,1 set,950,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Baby Toys (12-24 months),Fisher-Price,1 set,1200,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Dog Food (Adult),Pedigree,3 kg,850,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Dog Food (Puppy),Pedigree,3 kg,950,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Cat Food,Whiskas,3 kg,950,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Pet Shampoo,Himalaya,200 ml,180,Baby & Pet Care,0.5,0.4,0.8,0.7,0.8,0.3
+Pet Conditioner,Himalaya,200 ml,200,Baby & Pet Care,0.5,0.4,0.8,0.7,0.8,0.3
+Pet Brush,Trixie,1 pc,250,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Pet Collar,Trixie,1 pc,350,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Pet Leash,Trixie,1 pc,450,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Pet Bowl,Trixie,1 pc,280,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Pet Bed,Trixie,1 pc,1500,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Pet Toys,Trixie,1 set,350,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Pet Treats,Pedigree,200 g,150,Baby & Pet Care,0.5,0.4,0.8,0.7,0.8,0.3
+Pet Litter,Tidy Cats,5 kg,650,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Pet Litter Box,Trixie,1 pc,950,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Pet Grooming Kit,Trixie,1 set,1200,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Pet Flea & Tick Powder,Himalaya,100 g,180,Baby & Pet Care,0.5,0.4,0.8,0.7,0.8,0.3
+Pet Nail Clipper,Trixie,1 pc,200,Baby & Pet Care,0.5,0.4,0.8,0.7,0.8,0.3
+Pet Cage (Small),Trixie,1 pc,1800,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Pet Cage (Medium),Trixie,1 pc,2500,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
+Pet Carrier,Trixie,1 pc,1500,Baby & Pet Care,0.5,0.4,0.9,0.7,0.8,0.3
